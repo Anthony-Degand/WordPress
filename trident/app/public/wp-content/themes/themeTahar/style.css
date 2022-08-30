@@ -1,0 +1,145 @@
+/*
+Theme Name: My Theme
+Author: Hostinger
+Author URI: http://www.hostinger.com/tutorials
+Description: My first responsive HTML5 theme
+Version: 1.0
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+*/
+
+* {
+    box-sizing: border-box;
+  }
+  body {
+      background-color: #acacac;
+      font-family: Helvetica;
+  }
+
+  .my-logo,
+footer {
+  width: 100%;
+  padding-left: 1%;
+  margin-bottom: 8px;
+  background-color: #0281d0;
+  border: 1px solid #78baff;
+}
+
+.my-logo {
+width:100%;
+height:100vh;
+/* background-color: #247fe6; */
+}
+
+
+body > header > h1 > a {
+color: #ffffff;
+font-weight: 400;
+}
+article > header {
+    background-color: aquamarine;
+}
+footer {
+  margin-top: 4px;
+}
+.trident {
+  text-decoration: none;
+  color:#3b3434;
+  font-size: 44px;
+  font-weight: 900;
+  font-family: 'Aboreto', cursive;
+  margin-top:5vh;
+  margin-left:2.5vw;
+  letter-spacing: 10px !important;
+}
+
+.t {
+  font-size: 54px;
+}
+
+.trident {
+
+  letter-spacing: 0;
+  padding: .25em 0 .325em;
+  display: block;
+  
+  text-shadow: 0 0 80px rgba(255, 255, 255, 0.5);
+
+/* Clip Background Image */
+
+  background: url(https://i.ibb.co/RDTnNrT/animated-text-fill.png) repeat-y;
+  -webkit-background-clip: text;
+  background-clip: text;
+
+/* Animate Background Image */
+
+  -webkit-text-fill-color: transparent;
+  animation: aitf 80s linear infinite;
+
+/* Activate hardware acceleration for smoother animations */
+
+  transform: translate3d(0,0,0);
+  backface-visibility: hidden;
+
+}
+
+
+/* Animate Background Image */
+
+@keyframes aitf {
+0% { background-position: 0% 50%; }
+100% { background-position: 100% 50%; }
+}
+
+.slogant {
+  position:absolute;
+  right:5vw;
+  top:45vh;
+  font-size: 44px;
+  letter-spacing: 10px;
+  font-family: 'Aboreto', cursive;
+  color:aquamarine;
+}
+
+/* 'Margin: 0 auto' centers block content on the page */
+.wrap {
+  width: 99%;
+  margin: 0 auto;
+}
+.content-area {
+  display: inline-block;
+}
+.content-thin {
+    width: 70%;
+}
+.content-full-width {
+    width: 100%;
+}
+.content-area,
+.primary-sidebar {
+  display: inline-block;
+}
+.primary-sidebar {
+  width: 25%;
+  padding: 1%;
+  vertical-align: top;
+  background-color: #ececec;
+}
+.article-loop {
+    width: 45%;
+    text-align: left;
+    margin: 5px;
+    padding: 10px;
+}
+.article-full {
+  width: 99%;
+  padding: 1%;
+}
+.article-loop,
+.article-full {
+  display: inline-block;
+  vertical-align: top;
+  background-color: #FFF;
+  border-radius: 4px;
+  margin-bottom: 4px;
+}

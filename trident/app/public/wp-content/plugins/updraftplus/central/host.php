@@ -2,8 +2,6 @@
 
 if (!defined('ABSPATH')) die('No direct access.');
 
-if (class_exists('UpdraftCentral_Host')) return;
-
 /**
  * The template definition for UpdraftCentral host
  */
@@ -28,12 +26,7 @@ abstract class UpdraftCentral_Host {
 	 * Class constructor
 	 */
 	public function __construct() {
-		if (!defined('UPDRAFTCENTRAL_CLIENT_DIR')) define('UPDRAFTCENTRAL_CLIENT_DIR', dirname(__FILE__));
-		if (!defined('UPDRAFTCENTRAL_CLIENT_URL')) define('UPDRAFTCENTRAL_CLIENT_URL', plugins_url('', __FILE__));
-
 		add_action('wp_ajax_updraft_central_ajax', array($this, 'updraft_central_ajax_handler'));
-
-		$this->init_required_libraries();
 	}
 
 	/**
@@ -287,33 +280,5 @@ abstract class UpdraftCentral_Host {
 		if (false !== $logline) $this->log($logline, 'notice', 'php_event');
 		// Pass it up the chain
 		return $this->error_reporting_stop_when_logged;
-	}
-
-	/**
-	 * Initialize required classes/libraries needed for this host plugin to work
-	 *
-	 * @return void
-	 */
-	private function init_required_libraries() {
-		if (!class_exists('UpdraftPlus_Remote_Communications')) {
-			$udrpc = $this->get_host_dir().'/vendor/team-updraft/common-libs/src/updraft-rpc/class-udrpc.php';
-			if (file_exists($udrpc)) include_once($udrpc);
-		}
-
-		$phpseclib_dir = $this->get_host_dir().'/vendor/phpseclib/phpseclib/phpseclib';
-		if (false === strpos(get_include_path(), $phpseclib_dir)) set_include_path(get_include_path().PATH_SEPARATOR.$phpseclib_dir);
-
-		$phpseclib = array(
-			'Crypt_Rijndael' => 'Crypt/Rijndael.php',
-			'Crypt_RSA' => 'Crypt/RSA.php',
-			'Crypt_Hash' => 'Crypt/Hash.php'
-		);
-
-		foreach ($phpseclib as $key => $value) {
-			if (!class_exists($key)) {
-				$rsa = $this->get_host_dir().'/vendor/phpseclib/phpseclib/phpseclib/'.$value;
-				if (file_exists($rsa)) include_once($rsa);
-			}
-		}
 	}
 }
