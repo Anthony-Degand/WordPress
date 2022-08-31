@@ -667,3 +667,186 @@
 [30-Aug-2022 08:16:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/afpa/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (Le module spécifié est introuvable.), C:/Users/afpa/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
 [30-Aug-2022 08:16:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/afpa/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (Le module spécifié est introuvable.), C:/Users/afpa/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
 [30-Aug-2022 08:16:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/afpa/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (Le module spécifié est introuvable.), C:/Users/afpa/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[31-Aug-2022 08:15:26 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\header.php on line 13
+[31-Aug-2022 08:15:33 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\header.php on line 13
+[31-Aug-2022 08:16:38 UTC] PHP Parse error:  syntax error, unexpected '=' in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\header.php on line 13
+[31-Aug-2022 08:22:18 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\header.php on line 13
+[31-Aug-2022 09:17:27 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\header.php on line 16
+[31-Aug-2022 09:17:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function couleur() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\header.php:17
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\index.php(1): get_header()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\header.php on line 17
+[31-Aug-2022 09:17:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function couleur() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\header.php:17
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\index.php(1): get_header()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\header.php on line 17
+[31-Aug-2022 11:56:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_footer_menu() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php:16
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\page.php(19): get_footer()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 16
+[31-Aug-2022 11:56:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_footer_menu() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php:16
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\index.php(19): get_footer()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 16
+[31-Aug-2022 11:57:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_footer_menu() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php:16
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\page.php(19): get_footer()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 16
+[31-Aug-2022 11:57:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_footer_menu() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php:16
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\index.php(19): get_footer()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 16
+[31-Aug-2022 11:57:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_footer_menu() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php:16
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\page.php(19): get_footer()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 16
+[31-Aug-2022 11:57:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_footer_menu() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php:16
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\index.php(19): get_footer()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 16
+[31-Aug-2022 12:06:53 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 18
+[31-Aug-2022 12:06:53 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 18
+[31-Aug-2022 12:07:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function template_header_menu() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php:16
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\page.php(19): get_footer()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 16
+[31-Aug-2022 12:07:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function template_header_menu() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php:16
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\index.php(19): get_footer()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 16
+[31-Aug-2022 12:07:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function template_tags() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php:16
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\page.php(19): get_footer()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 16
+[31-Aug-2022 12:07:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function template_tags() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php:16
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\index.php(19): get_footer()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 16
+[31-Aug-2022 12:10:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_menu() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php:16
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\page.php(19): get_footer()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 16
+[31-Aug-2022 12:10:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_menu() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php:16
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\index.php(19): get_footer()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 16
+[31-Aug-2022 12:11:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_header() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php:16
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\page.php(19): get_footer()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 16
+[31-Aug-2022 12:11:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_header() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php:16
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\index.php(19): get_footer()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 16
