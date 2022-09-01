@@ -1,0 +1,852 @@
+[25-Aug-2022 12:29:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/afpa/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (Le module spécifié est introuvable.), C:/Users/afpa/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[25-Aug-2022 12:29:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/afpa/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (Le module spécifié est introuvable.), C:/Users/afpa/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[25-Aug-2022 12:29:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/afpa/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (Le module spécifié est introuvable.), C:/Users/afpa/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[25-Aug-2022 12:29:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/afpa/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (Le module spécifié est introuvable.), C:/Users/afpa/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[26-Aug-2022 06:08:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/afpa/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (Le module spécifié est introuvable.), C:/Users/afpa/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[26-Aug-2022 06:08:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/afpa/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (Le module spécifié est introuvable.), C:/Users/afpa/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[26-Aug-2022 06:08:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/afpa/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (Le module spécifié est introuvable.), C:/Users/afpa/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[26-Aug-2022 06:08:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/afpa/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (Le module spécifié est introuvable.), C:/Users/afpa/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[29-Aug-2022 08:17:30 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:17:33 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:17:45 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:17:52 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:17:53 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:18:04 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:18:04 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:18:09 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:18:11 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:18:12 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:18:16 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:18:17 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:18:24 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:19:46 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:19:46 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:19:52 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:19:55 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:19:55 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:19:57 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:19:57 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:20:02 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:20:02 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:20:05 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:20:05 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:20:07 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:20:07 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:20:20 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:24:39 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:25:45 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:25:50 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:25:50 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:26:08 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:26:08 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 08:26:11 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 09:05:48 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 09:05:54 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 09:06:00 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 09:06:00 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 09:06:03 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 09:08:15 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 09:08:15 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 09:09:10 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 09:09:10 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 09:09:13 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 09:09:13 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 09:10:33 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 09:10:33 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 09:13:08 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 09:13:08 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 09:13:47 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 09:13:47 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 09:13:48 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 09:14:49 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 09:16:38 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 09:17:39 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 09:17:48 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 09:17:48 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 09:18:00 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 09:18:01 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 9
+[29-Aug-2022 10:58:08 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\archive.php on line 112
+[29-Aug-2022 10:58:11 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\archive.php on line 112
+[29-Aug-2022 11:25:36 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 65
+[29-Aug-2022 11:26:42 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 66
+[29-Aug-2022 11:26:43 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 66
+[29-Aug-2022 11:36:55 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 70
+[29-Aug-2022 11:37:01 UTC] PHP Warning:  Use of undefined constant … - assumed '…' (this will throw an Error in a future version of PHP) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 72
+[29-Aug-2022 11:37:01 UTC] PHP Stack trace:
+[29-Aug-2022 11:37:01 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[29-Aug-2022 11:37:01 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[29-Aug-2022 11:37:01 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:13
+[29-Aug-2022 11:37:01 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:37:01 UTC] PHP   5. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:37:01 UTC] PHP   6. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-settings.php:598
+[29-Aug-2022 11:37:01 UTC] PHP   7. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:37:01 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:37:01 UTC] PHP   9. capitaine_register_post_types() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:37:01 UTC] PHP Warning:  Use of undefined constant … - assumed '…' (this will throw an Error in a future version of PHP) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 73
+[29-Aug-2022 11:37:01 UTC] PHP Stack trace:
+[29-Aug-2022 11:37:01 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[29-Aug-2022 11:37:01 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[29-Aug-2022 11:37:01 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:13
+[29-Aug-2022 11:37:01 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:37:01 UTC] PHP   5. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:37:01 UTC] PHP   6. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-settings.php:598
+[29-Aug-2022 11:37:01 UTC] PHP   7. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:37:01 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:37:01 UTC] PHP   9. capitaine_register_post_types() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:37:02 UTC] PHP Warning:  Use of undefined constant … - assumed '…' (this will throw an Error in a future version of PHP) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 72
+[29-Aug-2022 11:37:02 UTC] PHP Stack trace:
+[29-Aug-2022 11:37:02 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\wp-cron.php:0
+[29-Aug-2022 11:37:02 UTC] PHP   2. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-cron.php:44
+[29-Aug-2022 11:37:02 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:37:02 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:37:02 UTC] PHP   5. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-settings.php:598
+[29-Aug-2022 11:37:02 UTC] PHP   6. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:37:02 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:37:02 UTC] PHP   8. capitaine_register_post_types() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:37:02 UTC] PHP Warning:  Use of undefined constant … - assumed '…' (this will throw an Error in a future version of PHP) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 73
+[29-Aug-2022 11:37:02 UTC] PHP Stack trace:
+[29-Aug-2022 11:37:02 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\wp-cron.php:0
+[29-Aug-2022 11:37:02 UTC] PHP   2. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-cron.php:44
+[29-Aug-2022 11:37:02 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:37:02 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:37:02 UTC] PHP   5. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-settings.php:598
+[29-Aug-2022 11:37:02 UTC] PHP   6. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:37:02 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:37:02 UTC] PHP   8. capitaine_register_post_types() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:37:03 UTC] PHP Warning:  Use of undefined constant … - assumed '…' (this will throw an Error in a future version of PHP) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 72
+[29-Aug-2022 11:37:03 UTC] PHP Stack trace:
+[29-Aug-2022 11:37:03 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[29-Aug-2022 11:37:03 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[29-Aug-2022 11:37:03 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:13
+[29-Aug-2022 11:37:03 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:37:03 UTC] PHP   5. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:37:03 UTC] PHP   6. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-settings.php:598
+[29-Aug-2022 11:37:03 UTC] PHP   7. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:37:03 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:37:03 UTC] PHP   9. capitaine_register_post_types() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:37:03 UTC] PHP Warning:  Use of undefined constant … - assumed '…' (this will throw an Error in a future version of PHP) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 73
+[29-Aug-2022 11:37:03 UTC] PHP Stack trace:
+[29-Aug-2022 11:37:03 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[29-Aug-2022 11:37:03 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[29-Aug-2022 11:37:03 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:13
+[29-Aug-2022 11:37:03 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:37:03 UTC] PHP   5. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:37:03 UTC] PHP   6. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-settings.php:598
+[29-Aug-2022 11:37:03 UTC] PHP   7. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:37:03 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:37:03 UTC] PHP   9. capitaine_register_post_types() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:37:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php:73) in C:\Users\afpa\Local Sites\trident\app\public\wp-includes\pluggable.php on line 1421
+[29-Aug-2022 11:37:03 UTC] PHP Stack trace:
+[29-Aug-2022 11:37:03 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[29-Aug-2022 11:37:03 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[29-Aug-2022 11:37:03 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:19
+[29-Aug-2022 11:37:03 UTC] PHP   4. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php:45
+[29-Aug-2022 11:37:03 UTC] PHP   5. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:37:03 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:37:03 UTC] PHP   7. do_favicon() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:37:03 UTC] PHP   8. wp_redirect() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\functions.php:1733
+[29-Aug-2022 11:37:03 UTC] PHP   9. header() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\pluggable.php:1421
+[29-Aug-2022 11:37:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php:73) in C:\Users\afpa\Local Sites\trident\app\public\wp-includes\pluggable.php on line 1424
+[29-Aug-2022 11:37:03 UTC] PHP Stack trace:
+[29-Aug-2022 11:37:03 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[29-Aug-2022 11:37:03 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[29-Aug-2022 11:37:03 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:19
+[29-Aug-2022 11:37:03 UTC] PHP   4. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php:45
+[29-Aug-2022 11:37:03 UTC] PHP   5. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:37:03 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:37:03 UTC] PHP   7. do_favicon() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:37:03 UTC] PHP   8. wp_redirect() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\functions.php:1733
+[29-Aug-2022 11:37:03 UTC] PHP   9. header() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\pluggable.php:1424
+[29-Aug-2022 11:39:20 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 51
+[29-Aug-2022 11:39:22 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 51
+[29-Aug-2022 11:39:23 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 51
+[29-Aug-2022 11:39:23 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 51
+[29-Aug-2022 11:39:35 UTC] PHP Warning:  Use of undefined constant … - assumed '…' (this will throw an Error in a future version of PHP) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 28
+[29-Aug-2022 11:39:35 UTC] PHP Stack trace:
+[29-Aug-2022 11:39:35 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[29-Aug-2022 11:39:35 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[29-Aug-2022 11:39:35 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:13
+[29-Aug-2022 11:39:35 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:39:35 UTC] PHP   5. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:39:35 UTC] PHP   6. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-settings.php:598
+[29-Aug-2022 11:39:35 UTC] PHP   7. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:39:35 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:39:35 UTC] PHP   9. capitaine_register_post_types() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:39:35 UTC] PHP Warning:  Use of undefined constant … - assumed '…' (this will throw an Error in a future version of PHP) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 29
+[29-Aug-2022 11:39:35 UTC] PHP Stack trace:
+[29-Aug-2022 11:39:35 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[29-Aug-2022 11:39:35 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[29-Aug-2022 11:39:35 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:13
+[29-Aug-2022 11:39:35 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:39:35 UTC] PHP   5. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:39:35 UTC] PHP   6. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-settings.php:598
+[29-Aug-2022 11:39:35 UTC] PHP   7. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:39:35 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:39:35 UTC] PHP   9. capitaine_register_post_types() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:39:35 UTC] PHP Warning:  Use of undefined constant … - assumed '…' (this will throw an Error in a future version of PHP) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 28
+[29-Aug-2022 11:39:35 UTC] PHP Stack trace:
+[29-Aug-2022 11:39:35 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\wp-cron.php:0
+[29-Aug-2022 11:39:35 UTC] PHP   2. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-cron.php:44
+[29-Aug-2022 11:39:35 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:39:35 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:39:35 UTC] PHP   5. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-settings.php:598
+[29-Aug-2022 11:39:35 UTC] PHP   6. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:39:35 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:39:35 UTC] PHP   8. capitaine_register_post_types() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:39:35 UTC] PHP Warning:  Use of undefined constant … - assumed '…' (this will throw an Error in a future version of PHP) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 29
+[29-Aug-2022 11:39:35 UTC] PHP Stack trace:
+[29-Aug-2022 11:39:35 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\wp-cron.php:0
+[29-Aug-2022 11:39:35 UTC] PHP   2. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-cron.php:44
+[29-Aug-2022 11:39:35 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:39:35 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:39:35 UTC] PHP   5. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-settings.php:598
+[29-Aug-2022 11:39:35 UTC] PHP   6. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:39:35 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:39:35 UTC] PHP   8. capitaine_register_post_types() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:39:36 UTC] PHP Warning:  Use of undefined constant … - assumed '…' (this will throw an Error in a future version of PHP) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 28
+[29-Aug-2022 11:39:36 UTC] PHP Stack trace:
+[29-Aug-2022 11:39:36 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[29-Aug-2022 11:39:36 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[29-Aug-2022 11:39:36 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:13
+[29-Aug-2022 11:39:36 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:39:36 UTC] PHP   5. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:39:36 UTC] PHP   6. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-settings.php:598
+[29-Aug-2022 11:39:36 UTC] PHP   7. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:39:36 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:39:36 UTC] PHP   9. capitaine_register_post_types() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:39:36 UTC] PHP Warning:  Use of undefined constant … - assumed '…' (this will throw an Error in a future version of PHP) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 29
+[29-Aug-2022 11:39:36 UTC] PHP Stack trace:
+[29-Aug-2022 11:39:36 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[29-Aug-2022 11:39:36 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[29-Aug-2022 11:39:36 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:13
+[29-Aug-2022 11:39:36 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:39:36 UTC] PHP   5. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:39:36 UTC] PHP   6. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-settings.php:598
+[29-Aug-2022 11:39:36 UTC] PHP   7. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:39:36 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:39:36 UTC] PHP   9. capitaine_register_post_types() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:39:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php:29) in C:\Users\afpa\Local Sites\trident\app\public\wp-includes\pluggable.php on line 1421
+[29-Aug-2022 11:39:36 UTC] PHP Stack trace:
+[29-Aug-2022 11:39:36 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[29-Aug-2022 11:39:36 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[29-Aug-2022 11:39:36 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:19
+[29-Aug-2022 11:39:36 UTC] PHP   4. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php:45
+[29-Aug-2022 11:39:36 UTC] PHP   5. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:39:36 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:39:36 UTC] PHP   7. do_favicon() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:39:36 UTC] PHP   8. wp_redirect() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\functions.php:1733
+[29-Aug-2022 11:39:36 UTC] PHP   9. header() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\pluggable.php:1421
+[29-Aug-2022 11:39:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php:29) in C:\Users\afpa\Local Sites\trident\app\public\wp-includes\pluggable.php on line 1424
+[29-Aug-2022 11:39:36 UTC] PHP Stack trace:
+[29-Aug-2022 11:39:36 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[29-Aug-2022 11:39:36 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[29-Aug-2022 11:39:36 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:19
+[29-Aug-2022 11:39:36 UTC] PHP   4. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php:45
+[29-Aug-2022 11:39:36 UTC] PHP   5. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:39:36 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:39:36 UTC] PHP   7. do_favicon() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:39:36 UTC] PHP   8. wp_redirect() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\functions.php:1733
+[29-Aug-2022 11:39:36 UTC] PHP   9. header() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\pluggable.php:1424
+[29-Aug-2022 11:40:51 UTC] PHP Warning:  Use of undefined constant … - assumed '…' (this will throw an Error in a future version of PHP) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 31
+[29-Aug-2022 11:40:51 UTC] PHP Stack trace:
+[29-Aug-2022 11:40:51 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[29-Aug-2022 11:40:51 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[29-Aug-2022 11:40:51 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:13
+[29-Aug-2022 11:40:51 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:40:51 UTC] PHP   5. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:40:51 UTC] PHP   6. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-settings.php:598
+[29-Aug-2022 11:40:51 UTC] PHP   7. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:40:51 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:40:51 UTC] PHP   9. capitaine_register_post_types() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:40:51 UTC] PHP Warning:  Use of undefined constant … - assumed '…' (this will throw an Error in a future version of PHP) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 32
+[29-Aug-2022 11:40:51 UTC] PHP Stack trace:
+[29-Aug-2022 11:40:51 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[29-Aug-2022 11:40:51 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[29-Aug-2022 11:40:51 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:13
+[29-Aug-2022 11:40:51 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:40:51 UTC] PHP   5. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:40:51 UTC] PHP   6. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-settings.php:598
+[29-Aug-2022 11:40:51 UTC] PHP   7. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:40:51 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:40:51 UTC] PHP   9. capitaine_register_post_types() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:40:51 UTC] PHP Warning:  Use of undefined constant … - assumed '…' (this will throw an Error in a future version of PHP) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 31
+[29-Aug-2022 11:40:51 UTC] PHP Stack trace:
+[29-Aug-2022 11:40:51 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\wp-cron.php:0
+[29-Aug-2022 11:40:51 UTC] PHP   2. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-cron.php:44
+[29-Aug-2022 11:40:51 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:40:51 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:40:51 UTC] PHP   5. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-settings.php:598
+[29-Aug-2022 11:40:51 UTC] PHP   6. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:40:51 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:40:51 UTC] PHP   8. capitaine_register_post_types() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:40:51 UTC] PHP Warning:  Use of undefined constant … - assumed '…' (this will throw an Error in a future version of PHP) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 32
+[29-Aug-2022 11:40:51 UTC] PHP Stack trace:
+[29-Aug-2022 11:40:51 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\wp-cron.php:0
+[29-Aug-2022 11:40:51 UTC] PHP   2. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-cron.php:44
+[29-Aug-2022 11:40:51 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:40:51 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:40:51 UTC] PHP   5. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-settings.php:598
+[29-Aug-2022 11:40:51 UTC] PHP   6. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:40:51 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:40:51 UTC] PHP   8. capitaine_register_post_types() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:40:52 UTC] PHP Warning:  Use of undefined constant … - assumed '…' (this will throw an Error in a future version of PHP) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 31
+[29-Aug-2022 11:40:52 UTC] PHP Stack trace:
+[29-Aug-2022 11:40:52 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[29-Aug-2022 11:40:52 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[29-Aug-2022 11:40:52 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:13
+[29-Aug-2022 11:40:52 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:40:52 UTC] PHP   5. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:40:52 UTC] PHP   6. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-settings.php:598
+[29-Aug-2022 11:40:52 UTC] PHP   7. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:40:52 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:40:52 UTC] PHP   9. capitaine_register_post_types() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:40:52 UTC] PHP Warning:  Use of undefined constant … - assumed '…' (this will throw an Error in a future version of PHP) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 32
+[29-Aug-2022 11:40:52 UTC] PHP Stack trace:
+[29-Aug-2022 11:40:52 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[29-Aug-2022 11:40:52 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[29-Aug-2022 11:40:52 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:13
+[29-Aug-2022 11:40:52 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:40:52 UTC] PHP   5. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:40:52 UTC] PHP   6. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-settings.php:598
+[29-Aug-2022 11:40:52 UTC] PHP   7. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:40:52 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:40:52 UTC] PHP   9. capitaine_register_post_types() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:40:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php:32) in C:\Users\afpa\Local Sites\trident\app\public\wp-includes\pluggable.php on line 1421
+[29-Aug-2022 11:40:52 UTC] PHP Stack trace:
+[29-Aug-2022 11:40:52 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[29-Aug-2022 11:40:52 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[29-Aug-2022 11:40:52 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:19
+[29-Aug-2022 11:40:52 UTC] PHP   4. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php:45
+[29-Aug-2022 11:40:52 UTC] PHP   5. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:40:52 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:40:52 UTC] PHP   7. do_favicon() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:40:52 UTC] PHP   8. wp_redirect() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\functions.php:1733
+[29-Aug-2022 11:40:52 UTC] PHP   9. header() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\pluggable.php:1421
+[29-Aug-2022 11:40:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php:32) in C:\Users\afpa\Local Sites\trident\app\public\wp-includes\pluggable.php on line 1424
+[29-Aug-2022 11:40:52 UTC] PHP Stack trace:
+[29-Aug-2022 11:40:52 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[29-Aug-2022 11:40:52 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[29-Aug-2022 11:40:52 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:19
+[29-Aug-2022 11:40:52 UTC] PHP   4. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php:45
+[29-Aug-2022 11:40:52 UTC] PHP   5. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:40:52 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:40:52 UTC] PHP   7. do_favicon() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:40:52 UTC] PHP   8. wp_redirect() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\functions.php:1733
+[29-Aug-2022 11:40:52 UTC] PHP   9. header() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\pluggable.php:1424
+[29-Aug-2022 11:40:57 UTC] PHP Warning:  Use of undefined constant … - assumed '…' (this will throw an Error in a future version of PHP) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 31
+[29-Aug-2022 11:40:57 UTC] PHP Stack trace:
+[29-Aug-2022 11:40:57 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\wp-admin\admin-ajax.php:0
+[29-Aug-2022 11:40:57 UTC] PHP   2. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-admin\admin-ajax.php:22
+[29-Aug-2022 11:40:57 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:40:57 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:40:57 UTC] PHP   5. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-settings.php:598
+[29-Aug-2022 11:40:57 UTC] PHP   6. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:40:57 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:40:57 UTC] PHP   8. capitaine_register_post_types() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:40:57 UTC] PHP Warning:  Use of undefined constant … - assumed '…' (this will throw an Error in a future version of PHP) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 32
+[29-Aug-2022 11:40:57 UTC] PHP Stack trace:
+[29-Aug-2022 11:40:57 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\wp-admin\admin-ajax.php:0
+[29-Aug-2022 11:40:57 UTC] PHP   2. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-admin\admin-ajax.php:22
+[29-Aug-2022 11:40:57 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:40:57 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:40:57 UTC] PHP   5. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-settings.php:598
+[29-Aug-2022 11:40:57 UTC] PHP   6. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:40:57 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:40:57 UTC] PHP   8. capitaine_register_post_types() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:42:49 UTC] PHP Fatal error:  Cannot redeclare Trident_register_post_types() (previously declared in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php:33) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 58
+[29-Aug-2022 11:42:49 UTC] PHP Stack trace:
+[29-Aug-2022 11:42:49 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[29-Aug-2022 11:42:49 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[29-Aug-2022 11:42:49 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:13
+[29-Aug-2022 11:42:49 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:42:49 UTC] PHP   5. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:42:50 UTC] PHP Fatal error:  Cannot redeclare Trident_register_post_types() (previously declared in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php:33) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 58
+[29-Aug-2022 11:42:50 UTC] PHP Stack trace:
+[29-Aug-2022 11:42:50 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[29-Aug-2022 11:42:50 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[29-Aug-2022 11:42:50 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:13
+[29-Aug-2022 11:42:50 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:42:50 UTC] PHP   5. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:42:57 UTC] PHP Fatal error:  Cannot redeclare Trident_register_post_types() (previously declared in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php:33) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 58
+[29-Aug-2022 11:42:57 UTC] PHP Stack trace:
+[29-Aug-2022 11:42:57 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\wp-admin\admin-ajax.php:0
+[29-Aug-2022 11:42:57 UTC] PHP   2. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-admin\admin-ajax.php:22
+[29-Aug-2022 11:42:57 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:42:57 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:43:53 UTC] PHP Fatal error:  Cannot redeclare Trident_register_post_types() (previously declared in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php:33) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 58
+[29-Aug-2022 11:43:53 UTC] PHP Stack trace:
+[29-Aug-2022 11:43:53 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[29-Aug-2022 11:43:53 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[29-Aug-2022 11:43:53 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:13
+[29-Aug-2022 11:43:53 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:43:53 UTC] PHP   5. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:43:53 UTC] PHP Fatal error:  Cannot redeclare Trident_register_post_types() (previously declared in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php:33) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 58
+[29-Aug-2022 11:43:53 UTC] PHP Stack trace:
+[29-Aug-2022 11:43:53 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[29-Aug-2022 11:43:53 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[29-Aug-2022 11:43:53 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:13
+[29-Aug-2022 11:43:53 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:43:53 UTC] PHP   5. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:44:50 UTC] PHP Warning:  Use of undefined constant … - assumed '…' (this will throw an Error in a future version of PHP) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 34
+[29-Aug-2022 11:44:50 UTC] PHP Stack trace:
+[29-Aug-2022 11:44:50 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[29-Aug-2022 11:44:50 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[29-Aug-2022 11:44:50 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:13
+[29-Aug-2022 11:44:50 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:44:50 UTC] PHP   5. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:44:50 UTC] PHP   6. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-settings.php:598
+[29-Aug-2022 11:44:50 UTC] PHP   7. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:44:50 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:44:50 UTC] PHP   9. Trid_register_post_types() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:44:50 UTC] PHP Warning:  Use of undefined constant … - assumed '…' (this will throw an Error in a future version of PHP) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 35
+[29-Aug-2022 11:44:50 UTC] PHP Stack trace:
+[29-Aug-2022 11:44:50 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[29-Aug-2022 11:44:50 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[29-Aug-2022 11:44:50 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:13
+[29-Aug-2022 11:44:50 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:44:50 UTC] PHP   5. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:44:50 UTC] PHP   6. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-settings.php:598
+[29-Aug-2022 11:44:50 UTC] PHP   7. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:44:50 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:44:50 UTC] PHP   9. Trid_register_post_types() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:44:51 UTC] PHP Warning:  Use of undefined constant … - assumed '…' (this will throw an Error in a future version of PHP) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 34
+[29-Aug-2022 11:44:51 UTC] PHP Stack trace:
+[29-Aug-2022 11:44:51 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\wp-cron.php:0
+[29-Aug-2022 11:44:51 UTC] PHP   2. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-cron.php:44
+[29-Aug-2022 11:44:51 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:44:51 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:44:51 UTC] PHP   5. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-settings.php:598
+[29-Aug-2022 11:44:51 UTC] PHP   6. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:44:51 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:44:51 UTC] PHP   8. Trid_register_post_types() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:44:51 UTC] PHP Warning:  Use of undefined constant … - assumed '…' (this will throw an Error in a future version of PHP) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 35
+[29-Aug-2022 11:44:51 UTC] PHP Stack trace:
+[29-Aug-2022 11:44:51 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\wp-cron.php:0
+[29-Aug-2022 11:44:51 UTC] PHP   2. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-cron.php:44
+[29-Aug-2022 11:44:51 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:44:51 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:44:51 UTC] PHP   5. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-settings.php:598
+[29-Aug-2022 11:44:51 UTC] PHP   6. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:44:51 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:44:51 UTC] PHP   8. Trid_register_post_types() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:44:51 UTC] PHP Warning:  Use of undefined constant … - assumed '…' (this will throw an Error in a future version of PHP) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 34
+[29-Aug-2022 11:44:51 UTC] PHP Stack trace:
+[29-Aug-2022 11:44:51 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[29-Aug-2022 11:44:51 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[29-Aug-2022 11:44:51 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:13
+[29-Aug-2022 11:44:51 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:44:51 UTC] PHP   5. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:44:51 UTC] PHP   6. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-settings.php:598
+[29-Aug-2022 11:44:51 UTC] PHP   7. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:44:51 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:44:51 UTC] PHP   9. Trid_register_post_types() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:44:51 UTC] PHP Warning:  Use of undefined constant … - assumed '…' (this will throw an Error in a future version of PHP) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 35
+[29-Aug-2022 11:44:51 UTC] PHP Stack trace:
+[29-Aug-2022 11:44:51 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[29-Aug-2022 11:44:51 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[29-Aug-2022 11:44:51 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:13
+[29-Aug-2022 11:44:51 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:44:51 UTC] PHP   5. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:44:51 UTC] PHP   6. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-settings.php:598
+[29-Aug-2022 11:44:51 UTC] PHP   7. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:44:51 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:44:51 UTC] PHP   9. Trid_register_post_types() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:44:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php:35) in C:\Users\afpa\Local Sites\trident\app\public\wp-includes\pluggable.php on line 1421
+[29-Aug-2022 11:44:51 UTC] PHP Stack trace:
+[29-Aug-2022 11:44:51 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[29-Aug-2022 11:44:51 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[29-Aug-2022 11:44:51 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:19
+[29-Aug-2022 11:44:51 UTC] PHP   4. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php:45
+[29-Aug-2022 11:44:51 UTC] PHP   5. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:44:51 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:44:51 UTC] PHP   7. do_favicon() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:44:51 UTC] PHP   8. wp_redirect() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\functions.php:1733
+[29-Aug-2022 11:44:51 UTC] PHP   9. header() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\pluggable.php:1421
+[29-Aug-2022 11:44:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php:35) in C:\Users\afpa\Local Sites\trident\app\public\wp-includes\pluggable.php on line 1424
+[29-Aug-2022 11:44:51 UTC] PHP Stack trace:
+[29-Aug-2022 11:44:51 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[29-Aug-2022 11:44:51 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[29-Aug-2022 11:44:51 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:19
+[29-Aug-2022 11:44:51 UTC] PHP   4. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php:45
+[29-Aug-2022 11:44:51 UTC] PHP   5. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:44:51 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:44:51 UTC] PHP   7. do_favicon() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:44:51 UTC] PHP   8. wp_redirect() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\functions.php:1733
+[29-Aug-2022 11:44:51 UTC] PHP   9. header() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\pluggable.php:1424
+[29-Aug-2022 11:44:59 UTC] PHP Warning:  Use of undefined constant … - assumed '…' (this will throw an Error in a future version of PHP) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 34
+[29-Aug-2022 11:44:59 UTC] PHP Stack trace:
+[29-Aug-2022 11:44:59 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\wp-admin\admin-ajax.php:0
+[29-Aug-2022 11:44:59 UTC] PHP   2. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-admin\admin-ajax.php:22
+[29-Aug-2022 11:44:59 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:44:59 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:44:59 UTC] PHP   5. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-settings.php:598
+[29-Aug-2022 11:44:59 UTC] PHP   6. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:44:59 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:44:59 UTC] PHP   8. Trid_register_post_types() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:44:59 UTC] PHP Warning:  Use of undefined constant … - assumed '…' (this will throw an Error in a future version of PHP) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 35
+[29-Aug-2022 11:44:59 UTC] PHP Stack trace:
+[29-Aug-2022 11:44:59 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\wp-admin\admin-ajax.php:0
+[29-Aug-2022 11:44:59 UTC] PHP   2. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-admin\admin-ajax.php:22
+[29-Aug-2022 11:44:59 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:44:59 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:44:59 UTC] PHP   5. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-settings.php:598
+[29-Aug-2022 11:44:59 UTC] PHP   6. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[29-Aug-2022 11:44:59 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[29-Aug-2022 11:44:59 UTC] PHP   8. Trid_register_post_types() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[29-Aug-2022 11:45:01 UTC] PHP Fatal error:  Cannot redeclare Trident_register_post_types() (previously declared in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php:33) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 58
+[29-Aug-2022 11:45:01 UTC] PHP Stack trace:
+[29-Aug-2022 11:45:01 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[29-Aug-2022 11:45:01 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[29-Aug-2022 11:45:01 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:13
+[29-Aug-2022 11:45:01 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:45:01 UTC] PHP   5. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:45:01 UTC] PHP Fatal error:  Cannot redeclare Trident_register_post_types() (previously declared in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php:33) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 58
+[29-Aug-2022 11:45:01 UTC] PHP Stack trace:
+[29-Aug-2022 11:45:01 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[29-Aug-2022 11:45:01 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[29-Aug-2022 11:45:01 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:13
+[29-Aug-2022 11:45:01 UTC] PHP   4. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-load.php:50
+[29-Aug-2022 11:45:01 UTC] PHP   5. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-config.php:91
+[29-Aug-2022 11:45:20 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 57
+[29-Aug-2022 11:45:20 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 57
+[29-Aug-2022 11:46:42 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 57
+[29-Aug-2022 11:46:43 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 57
+[29-Aug-2022 11:46:59 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 51
+[29-Aug-2022 11:47:02 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 51
+[29-Aug-2022 11:47:03 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 51
+[29-Aug-2022 11:47:05 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 51
+[29-Aug-2022 11:47:05 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\Anthony_D\functions.php on line 51
+[29-Aug-2022 13:47:54 UTC] PHP Parse error:  syntax error, unexpected 'esc_url' (T_STRING) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\thèmeTahar\header.php on line 12
+[30-Aug-2022 07:37:57 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'mon-script' not found or invalid function name in C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php on line 307
+[30-Aug-2022 07:37:57 UTC] PHP Stack trace:
+[30-Aug-2022 07:37:57 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[30-Aug-2022 07:37:57 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[30-Aug-2022 07:37:57 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:19
+[30-Aug-2022 07:37:57 UTC] PHP   4. include() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php:106
+[30-Aug-2022 07:37:57 UTC] PHP   5. get_header() C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\thèmeTahar\index.php:1
+[30-Aug-2022 07:37:57 UTC] PHP   6. locate_template() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php:48
+[30-Aug-2022 07:37:57 UTC] PHP   7. load_template() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php:716
+[30-Aug-2022 07:37:57 UTC] PHP   8. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php:770
+[30-Aug-2022 07:37:57 UTC] PHP   9. wp_head() C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\thèmeTahar\header.php:11
+[30-Aug-2022 07:37:57 UTC] PHP  10. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php:3042
+[30-Aug-2022 07:37:57 UTC] PHP  11. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[30-Aug-2022 07:37:57 UTC] PHP  12. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[30-Aug-2022 07:37:57 UTC] PHP  13. wp_enqueue_scripts() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[30-Aug-2022 07:37:57 UTC] PHP  14. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\script-loader.php:2156
+[30-Aug-2022 07:37:57 UTC] PHP  15. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[30-Aug-2022 07:37:57 UTC] PHP  16. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[30-Aug-2022 07:40:07 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'mon-script' not found or invalid function name in C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php on line 307
+[30-Aug-2022 07:40:07 UTC] PHP Stack trace:
+[30-Aug-2022 07:40:07 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[30-Aug-2022 07:40:07 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[30-Aug-2022 07:40:07 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:19
+[30-Aug-2022 07:40:07 UTC] PHP   4. include() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php:106
+[30-Aug-2022 07:40:07 UTC] PHP   5. get_header() C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\thèmeTahar\index.php:1
+[30-Aug-2022 07:40:07 UTC] PHP   6. locate_template() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php:48
+[30-Aug-2022 07:40:07 UTC] PHP   7. load_template() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php:716
+[30-Aug-2022 07:40:07 UTC] PHP   8. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php:770
+[30-Aug-2022 07:40:07 UTC] PHP   9. wp_head() C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\thèmeTahar\header.php:11
+[30-Aug-2022 07:40:07 UTC] PHP  10. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php:3042
+[30-Aug-2022 07:40:07 UTC] PHP  11. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[30-Aug-2022 07:40:07 UTC] PHP  12. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[30-Aug-2022 07:40:07 UTC] PHP  13. wp_enqueue_scripts() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[30-Aug-2022 07:40:07 UTC] PHP  14. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\script-loader.php:2156
+[30-Aug-2022 07:40:07 UTC] PHP  15. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[30-Aug-2022 07:40:07 UTC] PHP  16. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[30-Aug-2022 07:40:40 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'mon-script' not found or invalid function name in C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php on line 307
+[30-Aug-2022 07:40:40 UTC] PHP Stack trace:
+[30-Aug-2022 07:40:40 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[30-Aug-2022 07:40:40 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[30-Aug-2022 07:40:40 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:19
+[30-Aug-2022 07:40:40 UTC] PHP   4. include() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php:106
+[30-Aug-2022 07:40:40 UTC] PHP   5. get_header() C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\thèmeTahar\index.php:1
+[30-Aug-2022 07:40:40 UTC] PHP   6. locate_template() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php:48
+[30-Aug-2022 07:40:40 UTC] PHP   7. load_template() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php:716
+[30-Aug-2022 07:40:40 UTC] PHP   8. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php:770
+[30-Aug-2022 07:40:40 UTC] PHP   9. wp_head() C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\thèmeTahar\header.php:11
+[30-Aug-2022 07:40:40 UTC] PHP  10. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php:3042
+[30-Aug-2022 07:40:40 UTC] PHP  11. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[30-Aug-2022 07:40:40 UTC] PHP  12. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[30-Aug-2022 07:40:40 UTC] PHP  13. wp_enqueue_scripts() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[30-Aug-2022 07:40:40 UTC] PHP  14. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\script-loader.php:2156
+[30-Aug-2022 07:40:40 UTC] PHP  15. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[30-Aug-2022 07:40:40 UTC] PHP  16. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[30-Aug-2022 07:43:40 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'mon-script' not found or invalid function name in C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php on line 307
+[30-Aug-2022 07:43:40 UTC] PHP Stack trace:
+[30-Aug-2022 07:43:40 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[30-Aug-2022 07:43:40 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[30-Aug-2022 07:43:40 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:19
+[30-Aug-2022 07:43:40 UTC] PHP   4. include() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php:106
+[30-Aug-2022 07:43:40 UTC] PHP   5. get_header() C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\thèmeTahar\index.php:1
+[30-Aug-2022 07:43:40 UTC] PHP   6. locate_template() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php:48
+[30-Aug-2022 07:43:40 UTC] PHP   7. load_template() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php:716
+[30-Aug-2022 07:43:40 UTC] PHP   8. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php:770
+[30-Aug-2022 07:43:40 UTC] PHP   9. wp_head() C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\thèmeTahar\header.php:11
+[30-Aug-2022 07:43:40 UTC] PHP  10. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php:3042
+[30-Aug-2022 07:43:40 UTC] PHP  11. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[30-Aug-2022 07:43:40 UTC] PHP  12. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[30-Aug-2022 07:43:40 UTC] PHP  13. wp_enqueue_scripts() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[30-Aug-2022 07:43:40 UTC] PHP  14. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\script-loader.php:2156
+[30-Aug-2022 07:43:40 UTC] PHP  15. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[30-Aug-2022 07:43:40 UTC] PHP  16. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[30-Aug-2022 07:44:24 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\thèmeTahar\functions.php on line 38
+[30-Aug-2022 07:44:25 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\thèmeTahar\functions.php on line 38
+[30-Aug-2022 07:44:35 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'mon-script' not found or invalid function name in C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php on line 307
+[30-Aug-2022 07:44:35 UTC] PHP Stack trace:
+[30-Aug-2022 07:44:35 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[30-Aug-2022 07:44:35 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[30-Aug-2022 07:44:35 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:19
+[30-Aug-2022 07:44:35 UTC] PHP   4. include() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php:106
+[30-Aug-2022 07:44:35 UTC] PHP   5. get_header() C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\thèmeTahar\index.php:1
+[30-Aug-2022 07:44:35 UTC] PHP   6. locate_template() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php:48
+[30-Aug-2022 07:44:35 UTC] PHP   7. load_template() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php:716
+[30-Aug-2022 07:44:35 UTC] PHP   8. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php:770
+[30-Aug-2022 07:44:35 UTC] PHP   9. wp_head() C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\thèmeTahar\header.php:11
+[30-Aug-2022 07:44:35 UTC] PHP  10. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php:3042
+[30-Aug-2022 07:44:35 UTC] PHP  11. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[30-Aug-2022 07:44:35 UTC] PHP  12. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[30-Aug-2022 07:44:35 UTC] PHP  13. wp_enqueue_scripts() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[30-Aug-2022 07:44:35 UTC] PHP  14. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\script-loader.php:2156
+[30-Aug-2022 07:44:35 UTC] PHP  15. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[30-Aug-2022 07:44:35 UTC] PHP  16. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[30-Aug-2022 07:45:17 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'mon-script' not found or invalid function name in C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php on line 307
+[30-Aug-2022 07:45:17 UTC] PHP Stack trace:
+[30-Aug-2022 07:45:17 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[30-Aug-2022 07:45:17 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[30-Aug-2022 07:45:17 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:19
+[30-Aug-2022 07:45:17 UTC] PHP   4. include() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php:106
+[30-Aug-2022 07:45:17 UTC] PHP   5. get_header() C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\thèmeTahar\index.php:1
+[30-Aug-2022 07:45:17 UTC] PHP   6. locate_template() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php:48
+[30-Aug-2022 07:45:17 UTC] PHP   7. load_template() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php:716
+[30-Aug-2022 07:45:17 UTC] PHP   8. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php:770
+[30-Aug-2022 07:45:17 UTC] PHP   9. wp_head() C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\thèmeTahar\header.php:11
+[30-Aug-2022 07:45:17 UTC] PHP  10. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php:3042
+[30-Aug-2022 07:45:17 UTC] PHP  11. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[30-Aug-2022 07:45:17 UTC] PHP  12. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[30-Aug-2022 07:45:17 UTC] PHP  13. wp_enqueue_scripts() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[30-Aug-2022 07:45:17 UTC] PHP  14. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\script-loader.php:2156
+[30-Aug-2022 07:45:17 UTC] PHP  15. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[30-Aug-2022 07:45:17 UTC] PHP  16. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[30-Aug-2022 07:45:18 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'mon-script' not found or invalid function name in C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php on line 307
+[30-Aug-2022 07:45:18 UTC] PHP Stack trace:
+[30-Aug-2022 07:45:18 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[30-Aug-2022 07:45:18 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[30-Aug-2022 07:45:18 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:19
+[30-Aug-2022 07:45:18 UTC] PHP   4. include() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php:106
+[30-Aug-2022 07:45:18 UTC] PHP   5. get_header() C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\thèmeTahar\index.php:1
+[30-Aug-2022 07:45:18 UTC] PHP   6. locate_template() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php:48
+[30-Aug-2022 07:45:18 UTC] PHP   7. load_template() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php:716
+[30-Aug-2022 07:45:18 UTC] PHP   8. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php:770
+[30-Aug-2022 07:45:18 UTC] PHP   9. wp_head() C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\thèmeTahar\header.php:11
+[30-Aug-2022 07:45:18 UTC] PHP  10. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php:3042
+[30-Aug-2022 07:45:18 UTC] PHP  11. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[30-Aug-2022 07:45:18 UTC] PHP  12. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[30-Aug-2022 07:45:18 UTC] PHP  13. wp_enqueue_scripts() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[30-Aug-2022 07:45:18 UTC] PHP  14. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\script-loader.php:2156
+[30-Aug-2022 07:45:18 UTC] PHP  15. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[30-Aug-2022 07:45:18 UTC] PHP  16. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[30-Aug-2022 07:45:19 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'mon-script' not found or invalid function name in C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php on line 307
+[30-Aug-2022 07:45:19 UTC] PHP Stack trace:
+[30-Aug-2022 07:45:19 UTC] PHP   1. {main}() C:\Users\afpa\Local Sites\trident\app\public\index.php:0
+[30-Aug-2022 07:45:19 UTC] PHP   2. require() C:\Users\afpa\Local Sites\trident\app\public\index.php:17
+[30-Aug-2022 07:45:19 UTC] PHP   3. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php:19
+[30-Aug-2022 07:45:19 UTC] PHP   4. include() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php:106
+[30-Aug-2022 07:45:19 UTC] PHP   5. get_header() C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\thèmeTahar\index.php:1
+[30-Aug-2022 07:45:19 UTC] PHP   6. locate_template() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php:48
+[30-Aug-2022 07:45:19 UTC] PHP   7. load_template() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php:716
+[30-Aug-2022 07:45:19 UTC] PHP   8. require_once() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php:770
+[30-Aug-2022 07:45:19 UTC] PHP   9. wp_head() C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\thèmeTahar\header.php:11
+[30-Aug-2022 07:45:19 UTC] PHP  10. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php:3042
+[30-Aug-2022 07:45:19 UTC] PHP  11. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[30-Aug-2022 07:45:19 UTC] PHP  12. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[30-Aug-2022 07:45:19 UTC] PHP  13. wp_enqueue_scripts() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:307
+[30-Aug-2022 07:45:19 UTC] PHP  14. do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\script-loader.php:2156
+[30-Aug-2022 07:45:19 UTC] PHP  15. WP_Hook->do_action() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\plugin.php:476
+[30-Aug-2022 07:45:19 UTC] PHP  16. WP_Hook->apply_filters() C:\Users\afpa\Local Sites\trident\app\public\wp-includes\class-wp-hook.php:331
+[30-Aug-2022 08:16:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/afpa/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (Le module spécifié est introuvable.), C:/Users/afpa/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[30-Aug-2022 08:16:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/afpa/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (Le module spécifié est introuvable.), C:/Users/afpa/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[30-Aug-2022 08:16:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/afpa/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (Le module spécifié est introuvable.), C:/Users/afpa/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[30-Aug-2022 08:16:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/afpa/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (Le module spécifié est introuvable.), C:/Users/afpa/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[31-Aug-2022 08:15:26 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\header.php on line 13
+[31-Aug-2022 08:15:33 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\header.php on line 13
+[31-Aug-2022 08:16:38 UTC] PHP Parse error:  syntax error, unexpected '=' in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\header.php on line 13
+[31-Aug-2022 08:22:18 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\header.php on line 13
+[31-Aug-2022 09:17:27 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\header.php on line 16
+[31-Aug-2022 09:17:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function couleur() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\header.php:17
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\index.php(1): get_header()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\header.php on line 17
+[31-Aug-2022 09:17:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function couleur() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\header.php:17
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\index.php(1): get_header()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\header.php on line 17
+[31-Aug-2022 11:56:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_footer_menu() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php:16
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\page.php(19): get_footer()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 16
+[31-Aug-2022 11:56:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_footer_menu() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php:16
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\index.php(19): get_footer()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 16
+[31-Aug-2022 11:57:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_footer_menu() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php:16
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\page.php(19): get_footer()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 16
+[31-Aug-2022 11:57:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_footer_menu() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php:16
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\index.php(19): get_footer()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 16
+[31-Aug-2022 11:57:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_footer_menu() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php:16
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\page.php(19): get_footer()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 16
+[31-Aug-2022 11:57:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_footer_menu() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php:16
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\index.php(19): get_footer()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 16
+[31-Aug-2022 12:06:53 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 18
+[31-Aug-2022 12:06:53 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 18
+[31-Aug-2022 12:07:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function template_header_menu() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php:16
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\page.php(19): get_footer()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 16
+[31-Aug-2022 12:07:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function template_header_menu() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php:16
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\index.php(19): get_footer()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 16
+[31-Aug-2022 12:07:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function template_tags() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php:16
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\page.php(19): get_footer()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 16
+[31-Aug-2022 12:07:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function template_tags() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php:16
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\index.php(19): get_footer()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 16
+[31-Aug-2022 12:10:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_menu() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php:16
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\page.php(19): get_footer()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 16
+[31-Aug-2022 12:10:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_menu() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php:16
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\index.php(19): get_footer()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 16
+[31-Aug-2022 12:11:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_header() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php:16
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\page.php(19): get_footer()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 16
+[31-Aug-2022 12:11:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_header() in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php:16
+Stack trace:
+#0 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template.php(716): load_template('C:\\Users\\afpa\\L...', true, Array)
+#2 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\index.php(19): get_footer()
+#4 C:\Users\afpa\Local Sites\trident\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\afpa\\L...')
+#5 C:\Users\afpa\Local Sites\trident\app\public\wp-blog-header.php(19): require_once('C:\\Users\\afpa\\L...')
+#6 C:\Users\afpa\Local Sites\trident\app\public\index.php(17): require('C:\\Users\\afpa\\L...')
+#7 {main}
+  thrown in C:\Users\afpa\Local Sites\trident\app\public\wp-content\themes\themeTahar\footer.php on line 16

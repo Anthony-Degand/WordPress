@@ -1,0 +1,344 @@
+/*
+Theme Name: My Theme
+Author: Hostinger
+Author URI: http://www.hostinger.com/tutorials
+Description: My first responsive HTML5 theme
+Version: 1.0
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+*/
+
+* {
+    box-sizing: border-box;
+    margin:0%;
+    padding:0%;
+  }
+  body {
+      background-color: #181818;
+      font-family: Helvetica;
+  }
+
+  .wp_admin_bar {
+    display: block;
+    margin:0%;
+    padding:0%;
+  }
+
+.wp_admin_bar ul, .wp_admin_bar ul li  {
+display: block;
+margin: 0%;
+padding: 0%;
+}
+
+  .my-logo,
+footer {
+  width: 100%;
+  padding-left: 1%;
+  margin-bottom: 8px;
+  background-color: #181818;
+  border: 1px solid #78baff;
+}
+
+header {
+  background-image: url(http://localhost:10004/wp-content/uploads/2022/08/pexels-jeremy-bishop-6212606-scaled.jpg);
+  background-position: 0%;
+  background-position: 40% 75%;
+  background-attachment: fixed;
+}
+
+.my-logo {
+width:100%;
+height:84vh;
+}
+
+
+body > header > h1 > a {
+color: #ffffff;
+font-weight: 400;
+}
+article > header {
+    background-color: aquamarine;
+}
+footer {
+  margin-top: 4px;
+}
+
+.t {
+  font-size: 54px;
+}
+
+.trident {
+
+  text-decoration: none;
+  color:#3b3434;
+  font-size: 44px;
+  font-weight: 900;
+  font-family: 'Aboreto', cursive;
+  margin-top:5vh;
+  margin-left:2.5vw;
+  letter-spacing: 10px !important;
+  letter-spacing: 0;
+  padding: .25em 0 .325em;
+  position:absolute;
+  top:3vh;
+  
+  text-shadow: 0 0 80px rgba(255, 255, 255, 0.5);
+
+/* Clip Background Image */
+
+  background: url(https://i.ibb.co/RDTnNrT/animated-text-fill.png) repeat-y;
+  -webkit-background-clip: text;
+  background-clip: text;
+
+/* Animate Background Image */
+
+  -webkit-text-fill-color: transparent;
+  animation: aitf 80s linear infinite;
+
+/* Activate hardware acceleration for smoother animations */
+
+  transform: translate3d(0,0,0);
+  backface-visibility: hidden;
+
+}
+
+
+/* Animate Background Image */
+
+@keyframes aitf {
+0% { background-position: 0% 50%; }
+100% { background-position: 100% 50%; }
+}
+
+.slogant {
+  position:absolute;
+  right:2vw;
+  top:45vh;
+  font-size: 44px;
+  letter-spacing: 10px;
+  font-family: 'Aboreto', cursive;
+  color:aquamarine;
+  opacity: 50%;
+}
+
+.my-logo .menu ul a, .menu_footer a, .menu_boutique a, .menu_fournisseur a  {
+  text-decoration: none;
+  color:whitesmoke;
+  padding:0px 0px;
+  border-top: 0px solid orangered;
+  border-bottom: 0px solid orangered;
+  transition-duration:1s;
+  transform: translateY(-50%) translateX(-50%);
+}
+
+.my-logo .menu ul a:hover, .menu_footer a:hover, .menu_boutique a:hover, .menu_fournisseur a:hover {
+  color:whitesmoke;
+  padding:5px 25px;
+  border-top: 2px solid orangered;
+  border-bottom: 2px solid orangered;
+  font-weight: 800;
+  font-family: 'Aboreto', cursive;
+  transition-duration:1s;
+  transform: translateY(-50%) translateX(-50%);
+}
+
+ul {
+  list-style: none;
+  
+}
+
+ul:hover {
+  list-style: none;
+  
+}
+
+.page_item {
+  display:inline;
+  margin-right: 3vw;
+  padding:5px 30px;
+}
+
+.page_item:hover {
+  display:inline;
+  margin-right: 3vw;
+  padding:5px 30px;
+  
+}
+
+.menu {
+  position:absolute;
+  right:2vw;
+  top:10vh;
+}
+
+.menu:hover {
+  position:absolute;
+  right:2vw;
+  top:10vh;
+  
+}
+
+/* 'Margin: 0 auto' centers block content on the page */
+.wrap {
+  width: 99%;
+  margin: 0 auto;
+}
+.content-area {
+  display: inline-block;
+}
+.content-thin {
+    width: 70%;
+}
+.content-full-width {
+    width: 100%;
+}
+.content-area,
+.primary-sidebar {
+  display: inline-block;
+}
+.primary-sidebar {
+  width: 25%;
+  padding: 1%;
+  vertical-align: top;
+  background-color: #ececec;
+}
+.article-loop {
+    width: 45%;
+    text-align: left;
+    margin: 5px;
+    padding: 10px;
+}
+.article-full {
+  width: 99%;
+  padding: 1%;
+}
+.article-loop,
+.article-full {
+  display: inline-block;
+  vertical-align: top;
+  background-color: #FFF;
+  border-radius: 4px;
+  margin-bottom: 4px;
+}
+
+/* ****************************footer******************************* */
+
+footer {
+  height:38vh;
+  text-align: center;
+  margin:0%;
+  padding:0%;
+  position:relative;
+}
+
+.contact {
+  height:15vh;
+  background-image: url(http://localhost:10004/wp-content/uploads/2022/08/pexels-jeremy-bishop-6212606-scaled.jpg);
+  background-position: 0%;
+  background-position: 40% 75%;
+  background-attachment: fixed;
+  margin-bottom: 0.5vh;
+  border-bottom: 2px solid orangered;
+  display: grid;
+  grid-template-columns: 200fr 1fr 200fr 1fr 200fr;
+  text-align: center;
+  position:relative;
+}
+
+.cont {
+position:flex;
+margin-top:2vh;
+font-weight:900;
+color:whitesmoke;
+font-family: 'Aboreto', cursive;
+}
+
+.separateur {
+  background-color: orangered;
+  opacity: 80%;
+}
+
+.infos_contact {
+  font-weight: 500 bolder;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.copyright {
+  color:whitesmoke;
+  position:absolute;
+  bottom: 1vh;
+  left:50vw;
+  transform: translateX(-50%);
+  margin:0%;
+  padding:0%;
+}
+
+.menu_bis {
+  display: grid;
+  grid-template-columns: 200fr  200fr 200fr 200fr;
+  position: relative;
+}
+
+.titre_menu_footer {
+  color:whitesmoke;
+  margin-top: 1.5vh;
+  margin-bottom:1.5vh;
+  font-size: 24px;
+  font-family: 'Aboreto', cursive;
+}
+
+.trident2 {
+
+  text-decoration: none;
+  color:#3b3434;
+  font-size: 44px;
+  font-weight: 900;
+  font-family: 'Aboreto', cursive;
+  letter-spacing: 10px;
+  padding: .25em 0 .325em;
+  position:absolute;
+  right:7vw;
+  top:7vh;
+  
+  text-shadow: 0 0 80px rgba(255, 255, 255, 0.5);
+
+/* Clip Background Image */
+
+  background: url(https://i.ibb.co/RDTnNrT/animated-text-fill.png) repeat-y;
+  -webkit-background-clip: text;
+  background-clip: text;
+
+/* Animate Background Image */
+
+  -webkit-text-fill-color: transparent;
+  animation: aitf 80s linear infinite;
+
+/* Activate hardware acceleration for smoother animations */
+
+  transform: translate3d(0,0,0);
+  backface-visibility: hidden;
+
+}
+
+.liens {
+  margin-bottom: 1vh;
+}
+
+/* *******************************accueil****************************** */
+
+.article-full {
+  background-color: whitesmoke;
+  opacity:50%;
+}
+
+.article-full h2 {
+  display: none;
+}
+
+.article-full header {
+  display: none;
+}
+
+.article-full p {
+  display: none;
+}
