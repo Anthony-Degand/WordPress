@@ -1,4 +1,10 @@
 <?php
+
+// BEGIN iThemes Security - Ne modifiez pas ou ne supprimez pas cette ligne
+// iThemes Security Config Details: 2
+define( 'DISALLOW_FILE_EDIT', true ); // Désactivez l’éditeur de code - iThemes Security > Réglages > Ajustements WordPress > Éditeur de code
+// END iThemes Security - Ne modifiez pas ou ne supprimez pas cette ligne
+
 /**
  * The base configuration for WordPress
  *

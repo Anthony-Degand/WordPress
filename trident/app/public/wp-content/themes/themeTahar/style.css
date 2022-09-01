@@ -323,3 +323,22 @@ font-family: 'Aboreto', cursive;
 .liens {
   margin-bottom: 1vh;
 }
+
+/* *******************************accueil****************************** */
+
+.article-full {
+  background-color: whitesmoke;
+  opacity:50%;
+}
+
+.article-full h2 {
+  display: none;
+}
+
+.article-full header {
+  display: none;
+}
+
+.article-full p {
+  display: none;
+}
