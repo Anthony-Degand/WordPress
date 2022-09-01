@@ -1,16 +1,10 @@
 <footer>
     <div class="contact">
-      <div class="cont">ADRESSE<br><span class="infos_contact">Lorem Ipsum is simply dummy text
-         of the printing and typesetting industry.Lorem Ipsum has been the industry's standard
-          dummy text ever since the 1500s</span></div>
+      <div class="cont">ADRESSE<br><br><span class="infos_contact">43, chemin de Robin<br>86255 - Chartiernec</span></div>
       <div class="separateur"></div>
-      <div class="cont">CONTACT<br><span class="infos_contact">Lorem Ipsum is simply dummy text of 
-        the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy
-         text ever since the 1500s</span></div>
+      <div class="cont">CONTACT<br><br><span class="infos_contact">+33 (0)3 88 15 88 56 <br> bernard.teixeira@club-internet.fr </span></div>
       <div class="separateur"></div>
-      <div class="cont">HORAIRES<br><span class="infos_contact">Lorem Ipsum is simply dummy text of
-       the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy
-        text ever since the 1500s</span></div>
+      <div class="cont">HORAIRES<br><br><span class="infos_contact">Du lundi au vendredi <br> de 9h à 12h et de 14h à 19h</span></div>
     </div>
 
     <div class="menu_bis">
@@ -32,10 +26,10 @@
       
     <ul class="menu_fournisseur">
     <p class="titre_menu_footer">Fournisseurs</p>
-      <li class="liens"><a href="#">sdhgqh</a></li>
-      <li class="liens"><a href="#">qgqh</a></li>
-      <li class="liens"><a href="#">qdhqhq</a></li>
-      <li class="liens"><a href="#">QRHQHQH</a></li>
+      <li class="liens"><a href="#">Cressi</a></li>
+      <li class="liens"><a href="#">Scubapro</a></li>
+      <li class="liens"><a href="#">Seac</a></li>
+      <li class="liens"><a href="#">Aqualung</a></li>
     </ul>
 
     <a class="trident2" href="<?php bloginfo("/"); ?>"><span class=t>T</span>rident</a>

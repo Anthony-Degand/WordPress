@@ -14,9 +14,21 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
     padding:0%;
   }
   body {
-      background-color: #acacac;
+      background-color: #181818;
       font-family: Helvetica;
   }
+
+  .wp_admin_bar {
+    display: block;
+    margin:0%;
+    padding:0%;
+  }
+
+.wp_admin_bar ul, .wp_admin_bar ul li  {
+display: block;
+margin: 0%;
+padding: 0%;
+}
 
   .my-logo,
 footer {
@@ -109,7 +121,7 @@ footer {
   opacity: 50%;
 }
 
-ul a {
+.my-logo .menu ul a, .menu_footer a, .menu_boutique a, .menu_fournisseur a  {
   text-decoration: none;
   color:whitesmoke;
   padding:0px 0px;
@@ -119,7 +131,7 @@ ul a {
   transform: translateY(-50%) translateX(-50%);
 }
 
-ul a:hover {
+.my-logo .menu ul a:hover, .menu_footer a:hover, .menu_boutique a:hover, .menu_fournisseur a:hover {
   color:whitesmoke;
   padding:5px 25px;
   border-top: 2px solid orangered;
@@ -212,7 +224,7 @@ ul:hover {
 /* ****************************footer******************************* */
 
 footer {
-  height:35vh;
+  height:38vh;
   text-align: center;
   margin:0%;
   padding:0%;
@@ -247,8 +259,7 @@ font-family: 'Aboreto', cursive;
 }
 
 .infos_contact {
-  font-weight: 100;
-  
+  font-weight: 500 bolder;
   font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -270,7 +281,8 @@ font-family: 'Aboreto', cursive;
 
 .titre_menu_footer {
   color:whitesmoke;
-  margin-bottom:1vh;
+  margin-top: 1.5vh;
+  margin-bottom:1.5vh;
   font-size: 24px;
   font-family: 'Aboreto', cursive;
 }
@@ -286,8 +298,7 @@ font-family: 'Aboreto', cursive;
   padding: .25em 0 .325em;
   position:absolute;
   right:7vw;
-
-  top:3vh;
+  top:7vh;
   
   text-shadow: 0 0 80px rgba(255, 255, 255, 0.5);
 
