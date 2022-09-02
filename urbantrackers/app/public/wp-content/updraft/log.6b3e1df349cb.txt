@@ -1,0 +1,641 @@
+0000.000 (0) Opened log file at time: Fri, 02 Sep 2022 06:09:39 +0000 on http://localhost:10010
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.19 WP: 6.0.1 PHP: 7.4.1 (cgi-fcgi, Windows NT STA7401023 10.0 build 19044 (Windows 10) AMD64) MySQL: 8.0.16 (max packet size=16777216) WPLANG: fr_FR Server: nginx/1.16.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 43.5M | 46M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.005 (0) Free space on disk containing Updraft's temporary directory: 136830.7 MB
+0000.008 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: weekly)
+0000.010 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.024 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1661493923, seconds_ago=605056)
+0000.030 (0) Set semaphore last lock (fd) time to 2022-09-02 06:09:39
+0000.032 (0) Semaphore lock (fd) complete
+0000.038 (0) Backup run: resumption=0, nonce=6b3e1df349cb, file_nonce=6b3e1df349cb begun at=1662098979 (0s ago), job type=backup
+0000.043 (0) Scheduling a resumption (1) after 300 seconds (1662099279) in case this run gets aborted
+0000.074 (0) Checking if we have a zip executable available
+0000.078 (0) Creation of backups of directories: beginning
+0000.086 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0004.175 (0) Total entities for the zip file: 1989 directories, 10360 files (0 skipped as non-modified), 109.3 MB
+0004.187 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0005.122 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 100 files added (on-disk size: 396.4 KB)
+0005.281 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 200 files added (on-disk size: 396.4 KB)
+0005.722 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 300 files added (on-disk size: 396.4 KB)
+0006.290 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 400 files added (on-disk size: 396.4 KB)
+0006.781 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 500 files added (on-disk size: 396.4 KB)
+0006.929 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (9.6 MB, 517 (518) files added so far); re-opening (prior size: 396.4 KB)
+0008.204 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 600 files added (on-disk size: 3114.2 KB)
+0008.505 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 700 files added (on-disk size: 3114.2 KB)
+0008.878 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 800 files added (on-disk size: 3114.2 KB)
+0009.249 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 900 files added (on-disk size: 3114.2 KB)
+0009.692 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 1000 files added (on-disk size: 3114.2 KB)
+0009.925 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3 MB, 534 (1052) files added so far); re-opening (prior size: 3114.2 KB)
+0010.662 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 1100 files added (on-disk size: 4417.5 KB)
+0011.170 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 1200 files added (on-disk size: 4417.5 KB)
+0011.764 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 1300 files added (on-disk size: 4417.5 KB)
+0012.053 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 1400 files added (on-disk size: 4417.5 KB)
+0012.464 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 1500 files added (on-disk size: 4417.5 KB)
+0012.834 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 1600 files added (on-disk size: 4417.5 KB)
+0012.936 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 563 (1615) files added so far); re-opening (prior size: 4417.5 KB)
+0013.830 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 1700 files added (on-disk size: 4911.8 KB)
+0014.188 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 1800 files added (on-disk size: 4911.8 KB)
+0014.620 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 1900 files added (on-disk size: 4911.8 KB)
+0015.068 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 2000 files added (on-disk size: 4911.8 KB)
+0015.548 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 2100 files added (on-disk size: 4911.8 KB)
+0015.931 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.2 MB, 524 (2139) files added so far); re-opening (prior size: 4911.8 KB)
+0017.174 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 2200 files added (on-disk size: 6856.5 KB)
+0018.195 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 2300 files added (on-disk size: 6856.5 KB)
+0018.936 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.5 MB, 224 (2363) files added so far); re-opening (prior size: 6856.5 KB)
+0020.053 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 2400 files added (on-disk size: 8509.3 KB)
+0021.309 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 2500 files added (on-disk size: 8509.3 KB)
+0021.926 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.4 MB, 188 (2551) files added so far); re-opening (prior size: 8509.3 KB)
+0023.290 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 2600 files added (on-disk size: 10022.4 KB)
+0024.173 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 2700 files added (on-disk size: 10022.4 KB)
+0024.772 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 2800 files added (on-disk size: 10022.4 KB)
+0024.930 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 265 (2816) files added so far); re-opening (prior size: 10022.4 KB)
+0025.905 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 2900 files added (on-disk size: 10289.2 KB)
+0026.423 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 3000 files added (on-disk size: 10289.2 KB)
+0027.017 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 3100 files added (on-disk size: 10289.2 KB)
+0027.929 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.7 MB, 383 (3199) files added so far); re-opening (prior size: 10289.2 KB)
+0028.593 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 3200 files added (on-disk size: 12971.1 KB)
+0029.303 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 3300 files added (on-disk size: 12971.1 KB)
+0029.908 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 3400 files added (on-disk size: 12971.1 KB)
+0030.503 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 3500 files added (on-disk size: 12971.1 KB)
+0030.932 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.5 MB, 343 (3542) files added so far); re-opening (prior size: 12971.1 KB)
+0031.752 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 3600 files added (on-disk size: 14426.4 KB)
+0032.447 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 3700 files added (on-disk size: 14426.4 KB)
+0033.882 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 3800 files added (on-disk size: 14426.4 KB)
+0033.925 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.6 MB, 268 (3810) files added so far); re-opening (prior size: 14426.4 KB)
+0035.556 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 3900 files added (on-disk size: 16172.5 KB)
+0036.927 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (14.2 MB, 175 (3985) files added so far); re-opening (prior size: 16172.5 KB)
+0039.236 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 4000 files added (on-disk size: 19826.7 KB)
+0040.391 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 4100 files added (on-disk size: 19826.7 KB)
+0040.933 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 149 (4134) files added so far); re-opening (prior size: 19826.7 KB)
+0042.077 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 4200 files added (on-disk size: 20043 KB)
+0043.289 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 4300 files added (on-disk size: 20043 KB)
+0043.937 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.1 MB, 236 (4370) files added so far); re-opening (prior size: 20043 KB)
+0044.751 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 4400 files added (on-disk size: 20660.6 KB)
+0045.684 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 4500 files added (on-disk size: 20660.6 KB)
+0046.647 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 4600 files added (on-disk size: 20660.6 KB)
+0046.932 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 257 (4627) files added so far); re-opening (prior size: 20660.6 KB)
+0047.955 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 4700 files added (on-disk size: 21136.5 KB)
+0049.074 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 4800 files added (on-disk size: 21136.5 KB)
+0049.822 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 4900 files added (on-disk size: 21136.5 KB)
+0049.961 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2 MB, 284 (4911) files added so far); re-opening (prior size: 21136.5 KB)
+0051.874 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 5000 files added (on-disk size: 21716.7 KB)
+0052.585 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 5100 files added (on-disk size: 21716.7 KB)
+0052.926 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.8 MB, 233 (5144) files added so far); re-opening (prior size: 21716.7 KB)
+0053.934 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 5200 files added (on-disk size: 22608 KB)
+0054.413 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 5300 files added (on-disk size: 22608 KB)
+0054.797 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 5400 files added (on-disk size: 22608 KB)
+0055.509 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 5500 files added (on-disk size: 22608 KB)
+0055.951 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6 MB, 405 (5549) files added so far); re-opening (prior size: 22608 KB)
+0056.948 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 5600 files added (on-disk size: 24828.5 KB)
+0057.594 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 5700 files added (on-disk size: 24828.5 KB)
+0058.938 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.1 MB, 191 (5740) files added so far); re-opening (prior size: 24828.5 KB)
+0061.421 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 5800 files added (on-disk size: 25960.9 KB)
+0061.933 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 88 (5828) files added so far); re-opening (prior size: 25960.9 KB)
+0064.083 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 5900 files added (on-disk size: 26141.7 KB)
+0064.505 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 6000 files added (on-disk size: 26141.7 KB)
+0064.931 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.6 MB, 241 (6069) files added so far); re-opening (prior size: 26141.7 KB)
+0065.704 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 6100 files added (on-disk size: 26838.5 KB)
+0065.789 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 6200 files added (on-disk size: 26838.5 KB)
+0066.287 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 6300 files added (on-disk size: 26838.5 KB)
+0066.745 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 6400 files added (on-disk size: 26838.5 KB)
+0067.274 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 6500 files added (on-disk size: 26838.5 KB)
+0067.749 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 6600 files added (on-disk size: 26838.5 KB)
+0067.928 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.3 MB, 567 (6636) files added so far); re-opening (prior size: 26838.5 KB)
+0068.796 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 6700 files added (on-disk size: 27833.6 KB)
+0069.308 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 6800 files added (on-disk size: 27833.6 KB)
+0069.825 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 6900 files added (on-disk size: 27833.6 KB)
+0070.233 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 7000 files added (on-disk size: 27833.6 KB)
+0070.640 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 7100 files added (on-disk size: 27833.6 KB)
+0070.929 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 527 (7163) files added so far); re-opening (prior size: 27833.6 KB)
+0071.587 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 7200 files added (on-disk size: 28474.8 KB)
+0072.080 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 7300 files added (on-disk size: 28474.8 KB)
+0072.578 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 7400 files added (on-disk size: 28474.8 KB)
+0073.118 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 7500 files added (on-disk size: 28474.8 KB)
+0073.630 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 7600 files added (on-disk size: 28474.8 KB)
+0073.928 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 MB, 469 (7632) files added so far); re-opening (prior size: 28474.8 KB)
+0074.985 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 7700 files added (on-disk size: 29107.9 KB)
+0075.710 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 7800 files added (on-disk size: 29107.9 KB)
+0076.062 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 7900 files added (on-disk size: 29107.9 KB)
+0076.272 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 8000 files added (on-disk size: 29107.9 KB)
+0076.923 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 8100 files added (on-disk size: 29107.9 KB)
+0076.932 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.9 MB, 469 (8101) files added so far); re-opening (prior size: 29107.9 KB)
+0078.322 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 8200 files added (on-disk size: 30532.1 KB)
+0078.716 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 8300 files added (on-disk size: 30532.1 KB)
+0079.096 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 8400 files added (on-disk size: 30532.1 KB)
+0079.559 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 8500 files added (on-disk size: 30532.1 KB)
+0079.966 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.5 MB, 478 (8579) files added so far); re-opening (prior size: 30532.1 KB)
+0081.105 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 8600 files added (on-disk size: 31297.7 KB)
+0082.719 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 8700 files added (on-disk size: 31297.7 KB)
+0082.937 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 152 (8731) files added so far); re-opening (prior size: 31297.7 KB)
+0083.766 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 8800 files added (on-disk size: 31459.3 KB)
+0084.161 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 8900 files added (on-disk size: 31459.3 KB)
+0085.048 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 9000 files added (on-disk size: 31459.3 KB)
+0085.682 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 9100 files added (on-disk size: 31459.3 KB)
+0085.931 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 MB, 410 (9141) files added so far); re-opening (prior size: 31459.3 KB)
+0087.307 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 9200 files added (on-disk size: 31949.6 KB)
+0088.208 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 9300 files added (on-disk size: 31949.6 KB)
+0088.934 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.8 MB, 248 (9389) files added so far); re-opening (prior size: 31949.6 KB)
+0089.772 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 9400 files added (on-disk size: 33130.3 KB)
+0090.814 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 9500 files added (on-disk size: 33130.3 KB)
+0091.007 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 9600 files added (on-disk size: 33130.3 KB)
+0091.491 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 9700 files added (on-disk size: 33130.3 KB)
+0091.929 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.1 MB, 366 (9755) files added so far); re-opening (prior size: 33130.3 KB)
+0093.333 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 9800 files added (on-disk size: 34585.4 KB)
+0093.410 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 9900 files added (on-disk size: 34585.4 KB)
+0093.605 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 10000 files added (on-disk size: 34585.4 KB)
+0093.870 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 10100 files added (on-disk size: 34585.4 KB)
+0094.541 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 10200 files added (on-disk size: 34585.4 KB)
+0095.263 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.tmp: 10300 files added (on-disk size: 34585.4 KB)
+0096.491 (0) Creating zip file manifest (backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.list-temp.tmp)
+0096.548 (0) Successfully created zip file manifest (size: 945236)
+0096.853 (0) Created plugins zip (0) - 35364.1 KB in 96.8 s (365.5 KB/s) (sha1: ca8abf034d729e01998118aad7fdfcc72c0e572d, sha256: 01d36480e976a94b21fac5acc97f2bb1bd80f2d2a99105472f0f7056006871ab)
+0096.860 (0) Beginning creation of dump of themes (split every: 400 MB)
+0097.760 (0) Total entities for the zip file: 585 directories, 2225 files (0 skipped as non-modified), 62.7 MB
+0098.231 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0098.925 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.9 MB, 186 (186) files added so far); re-opening (prior size: 0 KB)
+0099.395 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-themes.zip.tmp: 200 files added (on-disk size: 1821.1 KB)
+0100.308 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-themes.zip.tmp: 300 files added (on-disk size: 1821.1 KB)
+0101.339 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-themes.zip.tmp: 400 files added (on-disk size: 1821.1 KB)
+0101.947 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.2 MB, 242 (428) files added so far); re-opening (prior size: 1821.1 KB)
+0102.817 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-themes.zip.tmp: 500 files added (on-disk size: 2281.7 KB)
+0103.588 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-themes.zip.tmp: 600 files added (on-disk size: 2281.7 KB)
+0104.927 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (14.8 MB, 267 (695) files added so far); re-opening (prior size: 2281.7 KB)
+0106.023 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-themes.zip.tmp: 700 files added (on-disk size: 6812.3 KB)
+0106.901 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-themes.zip.tmp: 800 files added (on-disk size: 6812.3 KB)
+0108.058 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-themes.zip.tmp: 900 files added (on-disk size: 6812.3 KB)
+0108.640 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-themes.zip.tmp: 1000 files added (on-disk size: 6812.3 KB)
+0108.927 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (10.9 MB, 376 (1071) files added so far); re-opening (prior size: 6812.3 KB)
+0109.348 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-themes.zip.tmp: 1100 files added (on-disk size: 15328 KB)
+0109.772 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-themes.zip.tmp: 1200 files added (on-disk size: 15328 KB)
+0110.288 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-themes.zip.tmp: 1300 files added (on-disk size: 15328 KB)
+0110.544 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-themes.zip.tmp: 1400 files added (on-disk size: 15328 KB)
+0110.995 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-themes.zip.tmp: 1500 files added (on-disk size: 15328 KB)
+0111.730 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-themes.zip.tmp: 1600 files added (on-disk size: 15328 KB)
+0111.930 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (11.2 MB, 565 (1636) files added so far); re-opening (prior size: 15328 KB)
+0113.108 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-themes.zip.tmp: 1700 files added (on-disk size: 20589.7 KB)
+0113.976 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-themes.zip.tmp: 1800 files added (on-disk size: 20589.7 KB)
+0114.927 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (9 MB, 209 (1845) files added so far); re-opening (prior size: 20589.7 KB)
+0115.699 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-themes.zip.tmp: 1900 files added (on-disk size: 22980.4 KB)
+0117.274 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-themes.zip.tmp: 2000 files added (on-disk size: 22980.4 KB)
+0117.931 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.6 MB, 191 (2036) files added so far); re-opening (prior size: 22980.4 KB)
+0119.269 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-themes.zip.tmp: 2100 files added (on-disk size: 24766.7 KB)
+0119.970 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-themes.zip.tmp: 2200 files added (on-disk size: 24766.7 KB)
+0120.384 (0) Creating zip file manifest (backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-themes.zip.list-temp.tmp)
+0120.398 (0) Successfully created zip file manifest (size: 165126)
+0120.632 (0) Created themes zip (0) - 27509.4 KB in 23.8 s (1157.4 KB/s) (sha1: 2119ba8fe06c99f43206ae17f7e7177300a6f5fd, sha256: 955079caedc3b5fe4fe88f99ef99cce9989aac3ac47900656f64e09373c04a01)
+0120.639 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0120.641 (0) Looking for candidates to backup in: C:\Users\afpa\Local Sites\urbantrackers\app\public/wp-content/uploads
+0120.644 (0) finding files: 2019: adding to list (1)
+0120.646 (0) finding files: 2020: adding to list (2)
+0120.649 (0) finding files: 2022: adding to list (3)
+0120.652 (0) finding files: ithemes-security: adding to list (4)
+0120.655 (0) finding files: themeisle-gutenberg: adding to list (5)
+0120.658 (0) finding files: ti_theme_onboarding.log: adding to list (6)
+0120.660 (0) finding files: wc-logs: adding to list (7)
+0120.662 (0) finding files: woocommerce_uploads: adding to list (8)
+0120.664 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0120.748 (0) Total entities for the zip file: 14 directories, 226 files (0 skipped as non-modified), 25.5 MB
+0121.077 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0121.406 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0121.457 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 226 files batched, 214 (214) added so far); re-opening (prior size: 0 KB)
+0121.632 (0) A useful amount of data was added after this amount of zip processing: 1.7 s (normalised: 1.7 s, rate: 15057.4 KB/s)
+0121.637 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.7069449424744, normalised_time=1.7001642352753, max_time=121.63404798508, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+0121.757 (0) Creating zip file manifest (backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-uploads.zip.list-temp.tmp)
+0121.761 (0) Successfully created zip file manifest (size: 14118)
+0121.982 (0) Created uploads zip (0) - 26017.5 KB in 1.3 s (19801.7 KB/s) (sha1: 3044c40ada57f96b84ca1c0152f660affcc9e858, sha256: 17ad871f3842dbd6816bf61ea871f51d7dff99fda34cbdf913d4644a577f3682)
+0121.989 (0) Beginning backup of other directories found in the content directory (index: 0)
+0121.991 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0121.993 (0) Looking for candidates to backup in: C:\Users\afpa\Local Sites\urbantrackers\app\public/wp-content
+0121.996 (0) finding files: index.php: adding to list (1)
+0121.998 (0) finding files: languages: adding to list (2)
+0122.000 (0) finding files: mu-plugins: adding to list (3)
+0122.002 (0) finding files: plugins: skipping: this is the plugins directory
+0122.004 (0) finding files: themes: skipping: this is the themes directory
+0122.007 (0) finding files: updraft: skipping: this is the updraft directory
+0122.009 (0) finding files: upgrade: skipping: excluded by options
+0122.011 (0) finding files: uploads: skipping: this is the uploads directory
+0122.158 (0) Total entities for the zip file: 4 directories, 507 files (0 skipped as non-modified), 7.8 MB
+0122.491 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0122.895 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0123.304 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-others.zip.tmp: 300 files added (on-disk size: 0 KB)
+0123.702 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-others.zip.tmp: 400 files added (on-disk size: 0 KB)
+0124.048 (0) Zip: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-others.zip.tmp: 500 files added (on-disk size: 0 KB)
+0124.727 (0) Creating zip file manifest (backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-others.zip.list-temp.tmp)
+0124.733 (0) Successfully created zip file manifest (size: 41222)
+0124.761 (0) Created others zip (0) - 2307.6 KB in 2.7 s (840.4 KB/s) (sha1: f6427382a9f2b6efdf92f0ee1a5d7c1553515d6d, sha256: 9959afd9cca0703e7e9a2c4ef374a1cc78d492466ff7a9559e581debc2677c9a)
+0124.776 (0) Saving backup status to database (elements: 8)
+0124.782 (0) Beginning creation of database dump (WordPress DB)
+0124.785 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+0124.824 (0) Table wp_options: Total expected rows (via COUNT): 461
+0124.827 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0124.879 (0) Table wp_options: Rows added in this batch (next record: 2156): 457 (uncompressed bytes in this segment=1404974) in 0.07 seconds
+0124.892 (0) Table wp_options: finishing file(s) (2, 256.8 KB)
+0124.903 (0) Table wp_users: Total expected rows (via COUNT): 1
+0124.906 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0124.912 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1397) in 0.01 seconds
+0124.922 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0124.933 (0) Table wp_usermeta: Total expected rows (via COUNT): 39
+0124.936 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0124.942 (0) Table wp_usermeta: Rows added in this batch (next record: 44): 39 (uncompressed bytes in this segment=13002) in 0.01 seconds
+0124.955 (0) Table wp_usermeta: finishing file(s) (2, 3.3 KB)
+0124.966 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 8
+0124.968 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0124.975 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 14): 8 (uncompressed bytes in this segment=4614) in 0.01 seconds
+0124.988 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 1 KB)
+0124.996 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0125.000 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=625) in 0.01 seconds
+0125.010 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0125.018 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 2
+0125.021 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0125.026 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=712) in 0.01 seconds
+0125.036 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0125.044 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 20
+0125.047 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0125.050 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 20): 20 (uncompressed bytes in this segment=2534) in 0.01 seconds
+0125.061 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 0.7 KB)
+0125.074 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0125.079 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=685) in 0.01 seconds
+0125.090 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0125.101 (0) Table wp_comments: Total expected rows (via COUNT): 0
+0125.107 (0) Table wp_comments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1769) in 0.01 seconds
+0125.117 (0) Table wp_comments: finishing file(s) (2, 0.5 KB)
+0125.128 (0) Table wp_itsec_bans: Total expected rows (via COUNT): 0
+0125.130 (0) Table wp_itsec_bans: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=876) in 0.00 seconds
+0125.140 (0) Table wp_itsec_bans: finishing file(s) (2, 0.4 KB)
+0125.151 (0) Table wp_itsec_dashboard_events: Total expected rows (via COUNT): 0
+0125.154 (0) Table wp_itsec_dashboard_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=816) in 0.01 seconds
+0125.163 (0) Table wp_itsec_dashboard_events: finishing file(s) (2, 0.4 KB)
+0125.177 (0) Table wp_itsec_distributed_storage: Total expected rows (via COUNT): 0
+0125.180 (0) Table wp_itsec_distributed_storage: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=915) in 0.01 seconds
+0125.192 (0) Table wp_itsec_distributed_storage: finishing file(s) (2, 0.4 KB)
+0125.206 (0) Table wp_itsec_fingerprints: Total expected rows (via COUNT): 0
+0125.209 (0) Table wp_itsec_fingerprints: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1223) in 0.01 seconds
+0125.222 (0) Table wp_itsec_fingerprints: finishing file(s) (2, 0.5 KB)
+0125.233 (0) Table wp_itsec_geolocation_cache: Total expected rows (via COUNT): 0
+0125.236 (0) Table wp_itsec_geolocation_cache: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=937) in 0.01 seconds
+0125.246 (0) Table wp_itsec_geolocation_cache: finishing file(s) (2, 0.4 KB)
+0125.255 (0) Table wp_itsec_lockouts: Total expected rows (via COUNT): 0
+0125.258 (0) Table wp_itsec_lockouts: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1209) in 0.00 seconds
+0125.269 (0) Table wp_itsec_lockouts: finishing file(s) (2, 0.5 KB)
+0125.283 (0) Table wp_itsec_logs: Total expected rows (via COUNT): 0
+0125.286 (0) Table wp_itsec_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1464) in 0.01 seconds
+0125.298 (0) Table wp_itsec_logs: finishing file(s) (2, 0.5 KB)
+0125.308 (0) Table wp_itsec_mutexes: Total expected rows (via COUNT): 0
+0125.312 (0) Table wp_itsec_mutexes: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=617) in 0.01 seconds
+0125.322 (0) Table wp_itsec_mutexes: finishing file(s) (2, 0.4 KB)
+0125.331 (0) Table wp_itsec_opaque_tokens: Total expected rows (approximate): 0
+0125.335 (0) Table wp_itsec_opaque_tokens: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=767) in 0.01 seconds
+0125.346 (0) Table wp_itsec_opaque_tokens: finishing file(s) (2, 0.4 KB)
+0125.357 (0) Table wp_itsec_temp: Total expected rows (via COUNT): 0
+0125.360 (0) Table wp_itsec_temp: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=903) in 0.01 seconds
+0125.372 (0) Table wp_itsec_temp: finishing file(s) (2, 0.4 KB)
+0125.380 (0) Table wp_itsec_user_groups: Total expected rows (approximate): 0
+0125.384 (0) Table wp_itsec_user_groups: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=838) in 0.01 seconds
+0125.393 (0) Table wp_itsec_user_groups: finishing file(s) (2, 0.4 KB)
+0125.404 (0) Table wp_links: Total expected rows (via COUNT): 0
+0125.407 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1310) in 0.01 seconds
+0125.417 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0125.428 (0) Table wp_postmeta: Total expected rows (via COUNT): 443
+0125.430 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0125.446 (0) Table wp_postmeta: Rows added in this batch (next record: 674): 443 (uncompressed bytes in this segment=131278) in 0.02 seconds
+0125.460 (0) Table wp_postmeta: finishing file(s) (2, 12.9 KB)
+0125.477 (0) Table wp_posts: Total expected rows (via COUNT): 147
+0125.479 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0125.511 (0) Table wp_posts: Rows added in this batch (next record: 297): 147 (uncompressed bytes in this segment=654616) in 0.04 seconds
+0125.525 (0) Table wp_posts: finishing file(s) (2, 54.5 KB)
+0125.534 (0) Table wp_term_relationships: Total expected rows (approximate): 17
+0125.541 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 18 (uncompressed bytes in this segment=946) in 0.01 seconds
+0125.553 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0125.565 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 28
+0125.567 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0125.573 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 28): 28 (uncompressed bytes in this segment=2097) in 0.01 seconds
+0125.585 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.7 KB)
+0125.598 (0) Table wp_termmeta: Total expected rows (via COUNT): 10
+0125.600 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0125.606 (0) Table wp_termmeta: Rows added in this batch (next record: 10): 10 (uncompressed bytes in this segment=1020) in 0.01 seconds
+0125.618 (0) Table wp_termmeta: finishing file(s) (2, 0.5 KB)
+0125.626 (0) Table wp_terms: Total expected rows (via COUNT): 28
+0125.629 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0125.634 (0) Table wp_terms: Rows added in this batch (next record: 28): 28 (uncompressed bytes in this segment=1800) in 0.01 seconds
+0125.644 (0) Table wp_terms: finishing file(s) (2, 0.8 KB)
+0125.653 (0) Table wp_wc_category_lookup: Total expected rows (approximate): 4
+0125.660 (0) Table wp_wc_category_lookup: Rows added in this batch (next record: 1000): 4 (uncompressed bytes in this segment=622) in 0.01 seconds
+0125.669 (0) Table wp_wc_category_lookup: finishing file(s) (2, 0.4 KB)
+0125.683 (0) Table wp_wc_product_meta_lookup: Total expected rows (via COUNT): 0
+0125.686 (0) Table wp_wc_product_meta_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1361) in 0.01 seconds
+0125.696 (0) Table wp_wc_product_meta_lookup: finishing file(s) (2, 0.5 KB)
+0125.706 (0) Table wp_wc_reserved_stock: Total expected rows (approximate): 0
+0125.709 (0) Table wp_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=665) in 0.01 seconds
+0125.719 (0) Table wp_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0125.728 (0) Table wp_wc_tax_rate_classes: Total expected rows (via COUNT): 2
+0125.731 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0125.736 (0) Table wp_wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=812) in 0.01 seconds
+0125.746 (0) Table wp_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0125.760 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (via COUNT): 0
+0125.765 (0) Table wp_woocommerce_order_itemmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=771) in 0.01 seconds
+0125.777 (0) Table wp_woocommerce_order_itemmeta: finishing file(s) (2, 0.4 KB)
+0125.791 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (via COUNT): 0
+0125.794 (0) Table wp_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=798) in 0.01 seconds
+0125.806 (0) Table wp_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0125.817 (0) Table wp_wc_admin_note_actions: Total expected rows (via COUNT): 58
+0125.820 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0125.829 (0) Table wp_wc_admin_note_actions: Rows added in this batch (next record: 518): 58 (uncompressed bytes in this segment=10141) in 0.02 seconds
+0125.843 (0) Table wp_wc_admin_note_actions: finishing file(s) (2, 2.3 KB)
+0125.858 (0) Table wp_wc_admin_notes: Total expected rows (via COUNT): 49
+0125.861 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0125.871 (0) Table wp_wc_admin_notes: Rows added in this batch (next record: 49): 49 (uncompressed bytes in this segment=24636) in 0.02 seconds
+0125.885 (0) Table wp_wc_admin_notes: finishing file(s) (2, 6.5 KB)
+0125.898 (0) Table wp_wc_customer_lookup: Total expected rows (via COUNT): 0
+0125.905 (0) Table wp_wc_customer_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1266) in 0.01 seconds
+0125.916 (0) Table wp_wc_customer_lookup: finishing file(s) (2, 0.5 KB)
+0125.929 (0) Table wp_wc_download_log: Total expected rows (via COUNT): 0
+0125.933 (0) Table wp_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=926) in 0.01 seconds
+0125.944 (0) Table wp_wc_download_log: finishing file(s) (2, 0.5 KB)
+0125.955 (0) Table wp_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0125.959 (0) Table wp_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=717) in 0.01 seconds
+0125.969 (0) Table wp_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0125.983 (0) Table wp_wc_order_product_lookup: Total expected rows (via COUNT): 0
+0125.987 (0) Table wp_wc_order_product_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1227) in 0.01 seconds
+0125.998 (0) Table wp_wc_order_product_lookup: finishing file(s) (2, 0.5 KB)
+0126.009 (0) Table wp_wc_order_stats: Total expected rows (via COUNT): 0
+0126.012 (0) Table wp_wc_order_stats: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1122) in 0.01 seconds
+0126.021 (0) Table wp_wc_order_stats: finishing file(s) (2, 0.5 KB)
+0126.031 (0) Table wp_wc_order_tax_lookup: Total expected rows (approximate): 0
+0126.035 (0) Table wp_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=799) in 0.01 seconds
+0126.045 (0) Table wp_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0126.056 (0) Table wp_wc_product_attributes_lookup: Total expected rows (approximate): 0
+0126.060 (0) Table wp_wc_product_attributes_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=862) in 0.01 seconds
+0126.070 (0) Table wp_wc_product_attributes_lookup: finishing file(s) (2, 0.4 KB)
+0126.081 (0) Table wp_wc_product_download_directories: Total expected rows (via COUNT): 2
+0126.083 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0126.089 (0) Table wp_wc_product_download_directories: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=933) in 0.01 seconds
+0126.098 (0) Table wp_wc_product_download_directories: finishing file(s) (2, 0.5 KB)
+0126.110 (0) Table wp_wc_rate_limits: Total expected rows (via COUNT): 0
+0126.117 (0) Table wp_wc_rate_limits: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=700) in 0.01 seconds
+0126.127 (0) Table wp_wc_rate_limits: finishing file(s) (2, 0.4 KB)
+0126.141 (0) Table wp_wc_webhooks: Total expected rows (via COUNT): 0
+0126.144 (0) Table wp_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1230) in 0.01 seconds
+0126.154 (0) Table wp_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0126.169 (0) Table wp_woocommerce_api_keys: Total expected rows (via COUNT): 0
+0126.172 (0) Table wp_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1046) in 0.01 seconds
+0126.185 (0) Table wp_woocommerce_api_keys: finishing file(s) (2, 0.5 KB)
+0126.195 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (via COUNT): 0
+0126.198 (0) Table wp_woocommerce_attribute_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=961) in 0.01 seconds
+0126.208 (0) Table wp_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.4 KB)
+0126.220 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (via COUNT): 0
+0126.224 (0) Table wp_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1538) in 0.01 seconds
+0126.234 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0126.248 (0) Table wp_woocommerce_log: Total expected rows (via COUNT): 0
+0126.252 (0) Table wp_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=722) in 0.01 seconds
+0126.265 (0) Table wp_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0126.275 (0) Table wp_woocommerce_order_items: Total expected rows (via COUNT): 0
+0126.278 (0) Table wp_woocommerce_order_items: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=739) in 0.01 seconds
+0126.288 (0) Table wp_woocommerce_order_items: finishing file(s) (2, 0.4 KB)
+0126.299 (0) Table wp_woocommerce_payment_tokens: Total expected rows (via COUNT): 0
+0126.301 (0) Table wp_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=841) in 0.01 seconds
+0126.311 (0) Table wp_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0126.322 (0) Table wp_woocommerce_sessions: Total expected rows (via COUNT): 1
+0126.325 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0126.330 (0) Table wp_woocommerce_sessions: Rows added in this batch (next record: 7): 1 (uncompressed bytes in this segment=2168) in 0.01 seconds
+0126.342 (0) Table wp_woocommerce_sessions: finishing file(s) (2, 0.8 KB)
+0126.353 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (via COUNT): 0
+0126.358 (0) Table wp_woocommerce_shipping_zone_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=874) in 0.01 seconds
+0126.368 (0) Table wp_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0126.378 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (via COUNT): 0
+0126.380 (0) Table wp_woocommerce_shipping_zone_methods: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=775) in 0.01 seconds
+0126.390 (0) Table wp_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0126.402 (0) Table wp_woocommerce_shipping_zones: Total expected rows (via COUNT): 0
+0126.406 (0) Table wp_woocommerce_shipping_zones: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=633) in 0.01 seconds
+0126.416 (0) Table wp_woocommerce_shipping_zones: finishing file(s) (2, 0.4 KB)
+0126.427 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (via COUNT): 0
+0126.431 (0) Table wp_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=848) in 0.01 seconds
+0126.441 (0) Table wp_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0126.451 (0) Table wp_woocommerce_tax_rates: Total expected rows (via COUNT): 0
+0126.454 (0) Table wp_woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1301) in 0.00 seconds
+0126.464 (0) Table wp_woocommerce_tax_rates: finishing file(s) (2, 0.5 KB)
+0126.477 (0) Table wp_yoast_indexable: Total expected rows (via COUNT): 30
+0126.479 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0126.492 (0) Table wp_yoast_indexable: Rows added in this batch (next record: 30): 30 (uncompressed bytes in this segment=19736) in 0.02 seconds
+0126.505 (0) Table wp_yoast_indexable: finishing file(s) (2, 3.4 KB)
+0126.514 (0) Table wp_yoast_indexable_hierarchy: Total expected rows (approximate): 16
+0126.520 (0) Table wp_yoast_indexable_hierarchy: Rows added in this batch (next record: 1000): 16 (uncompressed bytes in this segment=1052) in 0.01 seconds
+0126.530 (0) Table wp_yoast_indexable_hierarchy: finishing file(s) (2, 0.4 KB)
+0126.541 (0) Table wp_yoast_migrations: Total expected rows (via COUNT): 23
+0126.544 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0126.549 (0) Table wp_yoast_migrations: Rows added in this batch (next record: 23): 23 (uncompressed bytes in this segment=1240) in 0.01 seconds
+0126.560 (0) Table wp_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0126.570 (0) Table wp_yoast_primary_term: Total expected rows (via COUNT): 0
+0126.575 (0) Table wp_yoast_primary_term: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=858) in 0.01 seconds
+0126.586 (0) Table wp_yoast_primary_term: finishing file(s) (2, 0.4 KB)
+0126.598 (0) Table wp_yoast_seo_links: Total expected rows (via COUNT): 126
+0126.600 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0126.612 (0) Table wp_yoast_seo_links: Rows added in this batch (next record: 221): 126 (uncompressed bytes in this segment=13718) in 0.02 seconds
+0126.623 (0) Table wp_yoast_seo_links: finishing file(s) (2, 1.8 KB)
+0126.628 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_options.table.tmpr2157.gz (1/62/fopen): adding to final database dump
+0126.639 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_options.table.gz (2/62/fopen): adding to final database dump
+0126.642 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_users.table.tmpr2.gz (3/62/fopen): adding to final database dump
+0126.645 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_users.table.gz (4/62/fopen): adding to final database dump
+0126.647 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_usermeta.table.tmpr45.gz (5/62/fopen): adding to final database dump
+0126.650 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_usermeta.table.gz (6/62/fopen): adding to final database dump
+0126.652 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_actionscheduler_actions.table.tmpr15.gz (7/62/fopen): adding to final database dump
+0126.655 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_actionscheduler_actions.table.gz (8/62/fopen): adding to final database dump
+0126.657 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/62/fopen): adding to final database dump
+0126.660 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_actionscheduler_claims.table.gz (10/62/fopen): adding to final database dump
+0126.662 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_actionscheduler_groups.table.tmpr3.gz (11/62/fopen): adding to final database dump
+0126.664 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_actionscheduler_groups.table.gz (12/62/fopen): adding to final database dump
+0126.666 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_actionscheduler_logs.table.tmpr21.gz (13/62/fopen): adding to final database dump
+0126.669 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_actionscheduler_logs.table.gz (14/62/fopen): adding to final database dump
+0126.671 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_commentmeta.table.tmpr0.gz (15/62/fopen): adding to final database dump
+0126.674 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_commentmeta.table.gz (16/62/fopen): adding to final database dump
+0126.676 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_comments.table.tmpr0.gz (17/62/fopen): adding to final database dump
+0126.679 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_comments.table.gz (18/62/fopen): adding to final database dump
+0126.681 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_itsec_bans.table.tmpr0.gz (19/62/fopen): adding to final database dump
+0126.683 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_itsec_bans.table.gz (20/62/fopen): adding to final database dump
+0126.685 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_itsec_dashboard_events.table.tmpr0.gz (21/62/fopen): adding to final database dump
+0126.688 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_itsec_dashboard_events.table.gz (22/62/fopen): adding to final database dump
+0126.691 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_itsec_distributed_storage.table.tmpr0.gz (23/62/fopen): adding to final database dump
+0126.694 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_itsec_distributed_storage.table.gz (24/62/fopen): adding to final database dump
+0126.697 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_itsec_fingerprints.table.tmpr0.gz (25/62/fopen): adding to final database dump
+0126.700 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_itsec_fingerprints.table.gz (26/62/fopen): adding to final database dump
+0126.702 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_itsec_geolocation_cache.table.tmpr0.gz (27/62/fopen): adding to final database dump
+0126.704 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_itsec_geolocation_cache.table.gz (28/62/fopen): adding to final database dump
+0126.707 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_itsec_lockouts.table.tmpr0.gz (29/62/fopen): adding to final database dump
+0126.709 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_itsec_lockouts.table.gz (30/62/fopen): adding to final database dump
+0126.711 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_itsec_logs.table.tmpr0.gz (31/62/fopen): adding to final database dump
+0126.714 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_itsec_logs.table.gz (32/62/fopen): adding to final database dump
+0126.716 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_itsec_mutexes.table.tmpr0.gz (33/62/fopen): adding to final database dump
+0126.718 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_itsec_mutexes.table.gz (34/62/fopen): adding to final database dump
+0126.720 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_itsec_opaque_tokens.table.tmpr1.gz (35/62/fopen): adding to final database dump
+0126.722 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_itsec_opaque_tokens.table.gz (36/62/fopen): adding to final database dump
+0126.724 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_itsec_temp.table.tmpr0.gz (37/62/fopen): adding to final database dump
+0126.726 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_itsec_temp.table.gz (38/62/fopen): adding to final database dump
+0126.728 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_itsec_user_groups.table.tmpr1.gz (39/62/fopen): adding to final database dump
+0126.730 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_itsec_user_groups.table.gz (40/62/fopen): adding to final database dump
+0126.732 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_links.table.tmpr0.gz (41/62/fopen): adding to final database dump
+0126.734 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_links.table.gz (42/62/fopen): adding to final database dump
+0126.736 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_postmeta.table.tmpr675.gz (43/62/fopen): adding to final database dump
+0126.739 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_postmeta.table.gz (44/62/fopen): adding to final database dump
+0126.741 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_posts.table.tmpr298.gz (45/62/fopen): adding to final database dump
+0126.745 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_posts.table.gz (46/62/fopen): adding to final database dump
+0126.747 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_term_relationships.table.tmpr100001.gz (47/62/fopen): adding to final database dump
+0126.749 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_term_relationships.table.gz (48/62/fopen): adding to final database dump
+0126.752 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_term_taxonomy.table.tmpr29.gz (49/62/fopen): adding to final database dump
+0126.754 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_term_taxonomy.table.gz (50/62/fopen): adding to final database dump
+0126.757 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_termmeta.table.tmpr11.gz (51/62/fopen): adding to final database dump
+0126.759 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_termmeta.table.gz (52/62/fopen): adding to final database dump
+0126.761 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_terms.table.tmpr29.gz (53/62/fopen): adding to final database dump
+0126.764 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_terms.table.gz (54/62/fopen): adding to final database dump
+0126.766 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_category_lookup.table.tmpr1001.gz (55/62/fopen): adding to final database dump
+0126.769 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_category_lookup.table.gz (56/62/fopen): adding to final database dump
+0126.771 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_product_meta_lookup.table.tmpr0.gz (57/62/fopen): adding to final database dump
+0126.773 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_product_meta_lookup.table.gz (58/62/fopen): adding to final database dump
+0126.775 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_reserved_stock.table.tmpr1.gz (59/62/fopen): adding to final database dump
+0126.777 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_reserved_stock.table.gz (60/62/fopen): adding to final database dump
+0126.780 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_tax_rate_classes.table.tmpr3.gz (61/62/fopen): adding to final database dump
+0126.782 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_tax_rate_classes.table.gz (62/62/fopen): adding to final database dump
+0126.783 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_woocommerce_order_itemmeta.table.tmpr0.gz (63/62/fopen): adding to final database dump
+0126.786 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_woocommerce_order_itemmeta.table.gz (64/62/fopen): adding to final database dump
+0126.787 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_woocommerce_payment_tokenmeta.table.tmpr0.gz (65/62/fopen): adding to final database dump
+0126.790 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_woocommerce_payment_tokenmeta.table.gz (66/62/fopen): adding to final database dump
+0126.792 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_admin_note_actions.table.tmpr519.gz (67/62/fopen): adding to final database dump
+0126.795 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_admin_note_actions.table.gz (68/62/fopen): adding to final database dump
+0126.797 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_admin_notes.table.tmpr50.gz (69/62/fopen): adding to final database dump
+0126.800 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_admin_notes.table.gz (70/62/fopen): adding to final database dump
+0126.803 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_customer_lookup.table.tmpr0.gz (71/62/fopen): adding to final database dump
+0126.805 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_customer_lookup.table.gz (72/62/fopen): adding to final database dump
+0126.807 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_download_log.table.tmpr0.gz (73/62/fopen): adding to final database dump
+0126.809 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_download_log.table.gz (74/62/fopen): adding to final database dump
+0126.811 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_order_coupon_lookup.table.tmpr1.gz (75/62/fopen): adding to final database dump
+0126.814 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_order_coupon_lookup.table.gz (76/62/fopen): adding to final database dump
+0126.816 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_order_product_lookup.table.tmpr0.gz (77/62/fopen): adding to final database dump
+0126.818 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_order_product_lookup.table.gz (78/62/fopen): adding to final database dump
+0126.820 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_order_stats.table.tmpr0.gz (79/62/fopen): adding to final database dump
+0126.822 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_order_stats.table.gz (80/62/fopen): adding to final database dump
+0126.824 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_order_tax_lookup.table.tmpr1.gz (81/62/fopen): adding to final database dump
+0126.826 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_order_tax_lookup.table.gz (82/62/fopen): adding to final database dump
+0126.828 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_product_attributes_lookup.table.tmpr1.gz (83/62/fopen): adding to final database dump
+0126.831 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_product_attributes_lookup.table.gz (84/62/fopen): adding to final database dump
+0126.832 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_product_download_directories.table.tmpr3.gz (85/62/fopen): adding to final database dump
+0126.834 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_product_download_directories.table.gz (86/62/fopen): adding to final database dump
+0126.836 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_rate_limits.table.tmpr0.gz (87/62/fopen): adding to final database dump
+0126.838 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_rate_limits.table.gz (88/62/fopen): adding to final database dump
+0126.840 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_webhooks.table.tmpr0.gz (89/62/fopen): adding to final database dump
+0126.842 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_wc_webhooks.table.gz (90/62/fopen): adding to final database dump
+0126.844 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_woocommerce_api_keys.table.tmpr0.gz (91/62/fopen): adding to final database dump
+0126.846 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_woocommerce_api_keys.table.gz (92/62/fopen): adding to final database dump
+0126.847 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_woocommerce_attribute_taxonomies.table.tmpr0.gz (93/62/fopen): adding to final database dump
+0126.849 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_woocommerce_attribute_taxonomies.table.gz (94/62/fopen): adding to final database dump
+0126.851 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_woocommerce_downloadable_product_permissions.table.tmpr0.gz (95/62/fopen): adding to final database dump
+0126.853 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (96/62/fopen): adding to final database dump
+0126.855 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_woocommerce_log.table.tmpr0.gz (97/62/fopen): adding to final database dump
+0126.857 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_woocommerce_log.table.gz (98/62/fopen): adding to final database dump
+0126.858 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_woocommerce_order_items.table.tmpr0.gz (99/62/fopen): adding to final database dump
+0126.863 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_woocommerce_order_items.table.gz (100/62/fopen): adding to final database dump
+0126.864 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_woocommerce_payment_tokens.table.tmpr0.gz (101/62/fopen): adding to final database dump
+0126.866 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_woocommerce_payment_tokens.table.gz (102/62/fopen): adding to final database dump
+0126.868 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_woocommerce_sessions.table.tmpr8.gz (103/62/fopen): adding to final database dump
+0126.870 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_woocommerce_sessions.table.gz (104/62/fopen): adding to final database dump
+0126.872 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_woocommerce_shipping_zone_locations.table.tmpr0.gz (105/62/fopen): adding to final database dump
+0126.874 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_woocommerce_shipping_zone_locations.table.gz (106/62/fopen): adding to final database dump
+0126.876 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_woocommerce_shipping_zone_methods.table.tmpr0.gz (107/62/fopen): adding to final database dump
+0126.878 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_woocommerce_shipping_zone_methods.table.gz (108/62/fopen): adding to final database dump
+0126.885 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_woocommerce_shipping_zones.table.tmpr0.gz (109/62/fopen): adding to final database dump
+0126.893 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_woocommerce_shipping_zones.table.gz (110/62/fopen): adding to final database dump
+0126.900 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_woocommerce_tax_rate_locations.table.tmpr0.gz (111/62/fopen): adding to final database dump
+0126.907 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_woocommerce_tax_rate_locations.table.gz (112/62/fopen): adding to final database dump
+0126.913 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_woocommerce_tax_rates.table.tmpr0.gz (113/62/fopen): adding to final database dump
+0126.920 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_woocommerce_tax_rates.table.gz (114/62/fopen): adding to final database dump
+0126.925 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_yoast_indexable.table.tmpr31.gz (115/62/fopen): adding to final database dump
+0126.930 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_yoast_indexable.table.gz (116/62/fopen): adding to final database dump
+0126.934 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_yoast_indexable_hierarchy.table.tmpr1001.gz (117/62/fopen): adding to final database dump
+0126.938 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_yoast_indexable_hierarchy.table.gz (118/62/fopen): adding to final database dump
+0126.942 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_yoast_migrations.table.tmpr24.gz (119/62/fopen): adding to final database dump
+0126.946 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_yoast_migrations.table.gz (120/62/fopen): adding to final database dump
+0126.949 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_yoast_primary_term.table.tmpr0.gz (121/62/fopen): adding to final database dump
+0126.953 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_yoast_primary_term.table.gz (122/62/fopen): adding to final database dump
+0126.957 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_yoast_seo_links.table.tmpr222.gz (123/62/fopen): adding to final database dump
+0126.961 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db-table-wp_yoast_seo_links.table.gz (124/62/fopen): adding to final database dump
+0126.982 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db.gz: finished writing out complete database file (366.2 KB)
+0127.008 (0) Total database tables backed up: 62 (backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db.gz, size: 375106, sha1: 0bd7a3ddf765c626f4b26732f3b86cd0e7c0ca5d, sha256: 4fa78f4d7a64e69a564c36b3291431543ea8fa43aa967be4ce4a9d8b3defa2d4)
+0127.020 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0127.022 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0127.025 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0127.027 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-others.zip: others: This file has not yet been successfully uploaded: will queue
+0127.029 (0) backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db.gz: db: This file has not yet been successfully uploaded: will queue
+0127.031 (0) Saving backup history. Total backup size: 89.4 MB
+0127.036 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0127.043 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0127.045 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-66c3d4b932693347156fa746362ca553)
+0129.373 (0) Google Drive: quota usage: used=66.5 MB, total=15360 MB, available=15293.5 MB
+0129.376 (0) Google Drive: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip: Attempting to upload to Google Drive (into folder id: 1tHqt1CtdeihhdfDmlPoM-DxWN1LH7lG9)
+0130.838 (0) Googledrive chunked upload: 2.9 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 44.6 / 52)
+0132.184 (0) Googledrive chunked upload: 8.7 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 44.6 / 52)
+0134.001 (0) Googledrive chunked upload: 20.3 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 44.6 / 52)
+0136.792 (0) Googledrive chunked upload: 43.4 % uploaded (15728640)
+0139.535 (0) Googledrive chunked upload: 66.6 % uploaded (24117248)
+0142.228 (0) Googledrive chunked upload: 89.8 % uploaded (32505856)
+0144.739 (0) Googledrive chunked upload: 100 % uploaded (32505856)
+0144.748 (0) Google Drive: OK: Archive backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip uploaded in 15.37 seconds
+0144.751 (0) Recording as successfully uploaded: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip
+0144.758 (0) Deleting local file: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip: OK
+0144.761 (0) Deleting zip manifest (backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-plugins.zip.list.tmp)
+0145.036 (0) Google Drive: quota usage: used=101.1 MB, total=15360 MB, available=15258.9 MB
+0145.039 (0) Google Drive: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-themes.zip: Attempting to upload to Google Drive (into folder id: 1tHqt1CtdeihhdfDmlPoM-DxWN1LH7lG9)
+0146.469 (0) Googledrive chunked upload: 3.7 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 44.6 / 52)
+0147.457 (0) Googledrive chunked upload: 11.2 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 44.6 / 52)
+0149.245 (0) Googledrive chunked upload: 26.1 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 44.6 / 52)
+0152.057 (0) Googledrive chunked upload: 55.8 % uploaded (15728640)
+0154.119 (0) Googledrive chunked upload: 85.6 % uploaded (24117248 - increasing chunk size to 16384 KB - memory usage: 44.6 / 52)
+0156.368 (0) Googledrive chunked upload: 100 % uploaded (24117248)
+0156.375 (0) Google Drive: OK: Archive backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-themes.zip uploaded in 11.33 seconds
+0156.377 (0) Recording as successfully uploaded: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-themes.zip
+0156.384 (0) Deleting local file: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-themes.zip: OK
+0156.386 (0) Deleting zip manifest (backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-themes.zip.list.tmp)
+0156.634 (0) Google Drive: quota usage: used=127.9 MB, total=15360 MB, available=15232.1 MB
+0156.637 (0) Google Drive: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-uploads.zip: Attempting to upload to Google Drive (into folder id: 1tHqt1CtdeihhdfDmlPoM-DxWN1LH7lG9)
+0158.078 (0) Googledrive chunked upload: 3.9 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 44.6 / 52)
+0159.500 (0) Googledrive chunked upload: 11.8 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 44.6 / 52)
+0161.151 (0) Googledrive chunked upload: 27.6 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 44.6 / 52)
+0164.253 (0) Googledrive chunked upload: 59 % uploaded (15728640)
+0166.947 (0) Googledrive chunked upload: 90.5 % uploaded (24117248)
+0169.252 (0) Googledrive chunked upload: 100 % uploaded (24117248)
+0169.261 (0) Google Drive: OK: Archive backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-uploads.zip uploaded in 12.62 seconds
+0169.263 (0) Recording as successfully uploaded: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-uploads.zip
+0169.270 (0) Deleting local file: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-uploads.zip: OK
+0169.273 (0) Deleting zip manifest (backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-uploads.zip.list.tmp)
+0169.622 (0) Google Drive: quota usage: used=153.3 MB, total=15360 MB, available=15206.7 MB
+0169.624 (0) Google Drive: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-others.zip: Attempting to upload to Google Drive (into folder id: 1tHqt1CtdeihhdfDmlPoM-DxWN1LH7lG9)
+0170.815 (0) Googledrive chunked upload: 44.4 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 44.6 / 52)
+0172.452 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+0172.461 (0) Google Drive: OK: Archive backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-others.zip uploaded in 2.83 seconds
+0172.463 (0) Recording as successfully uploaded: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-others.zip
+0172.468 (0) Deleting local file: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-others.zip: OK
+0172.471 (0) Deleting zip manifest (backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-others.zip.list.tmp)
+0172.781 (0) Google Drive: quota usage: used=155.6 MB, total=15360 MB, available=15204.4 MB
+0172.785 (0) Google Drive: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db.gz: Attempting to upload to Google Drive (into folder id: 1tHqt1CtdeihhdfDmlPoM-DxWN1LH7lG9)
+0174.563 (0) Googledrive chunked upload: 100 % uploaded
+0174.572 (0) Google Drive: OK: Archive backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db.gz uploaded in 1.78 seconds
+0174.574 (0) Recording as successfully uploaded: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db.gz
+0174.580 (0) Deleting local file: backup_2022-09-02-0609_UrbanTrackers_6b3e1df349cb-db.gz: OK
+0174.592 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0174.595 (0) Number of backup sets in history: 2; groups (db): 1
+0174.598 (0) Examining (for databases) backup set with group_id=0, nonce=6b3e1df349cb, datestamp=1662098979 (Sep 02 2022 06:09:39)
+0174.601 (0) This backup set is the backup set just made, so will not be deleted.
+0174.601 (0) Examining (for databases) backup set with group_id=0, nonce=fab3420d32ad, datestamp=1661493923 (Aug 26 2022 06:05:23)
+0174.601 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0174.603 (0) Number of backup sets in history: 2; groups (files): 1
+0174.605 (0) Examining (for files) backup set with nonce=6b3e1df349cb, datestamp=1662098979 (Sep 02 2022 06:09:39)
+0174.605 (0) This backup set is the backup set just made, so will not be deleted.
+0174.608 (0) This backup set is the backup set just made, so will not be deleted.
+0174.608 (0) This backup set is the backup set just made, so will not be deleted.
+0174.608 (0) This backup set is the backup set just made, so will not be deleted.
+0174.608 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0174.611 (0) Examining (for files) backup set with nonce=fab3420d32ad, datestamp=1661493923 (Aug 26 2022 06:05:23)
+0174.611 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0174.611 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0174.617 (0) Resume backup (6b3e1df349cb, 0): finish run
+0174.624 (0) Decremented the semaphore (fd) by 1
+0174.628 (0) Semaphore (fd) unlocked
+0174.630 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0174.637 (0) The backup apparently succeeded and is now complete
+0174.639 (0) No email will/can be sent - the user has not configured an email address.
+0174.641 (0) La sauvegarde a apparemment réussi et est maintenant terminée
